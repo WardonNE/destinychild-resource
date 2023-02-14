@@ -1530,30 +1530,44 @@
                 "name": "未来的梅迪斯",
                 "description": "好像娃娃般的女人.一针一针饱含真诚倾注心意的哥特式复古裙.",
                 "live2d": "c053_02"
+            },
+            {
+                "code": "c053_10",
+                "avatar": "c0\/00000178.png",
+                "name": "교복메티스",
+                "description": "아리아를 따라 아슈람에 입학한 메티스의 단정한 교복 복장.",
+                "live2d": "c053_10"
+            },
+            {
+                "code": "c053_11",
+                "avatar": "c0\/00000179.png",
+                "name": "꼬마마법사샛별",
+                "description": "민트와 함께 사랑, 평화를 수호하는 꼬마마법사 샛별.",
+                "live2d": "c053_11"
             }
         ]
     },
     {
         "name": "雷贞德",
-        "avatar": "c0\/00000180.png",
+        "avatar": "c0\/00000182.png",
         "skins": [
             {
                 "code": "c054_00",
-                "avatar": "c0\/00000178.png",
+                "avatar": "c0\/00000180.png",
                 "name": "未发育的雷贞德",
                 "description": "把刀交给了忍者… 会后悔的呦?",
                 "live2d": "c054_00"
             },
             {
                 "code": "c054_01",
-                "avatar": "c0\/00000179.png",
+                "avatar": "c0\/00000181.png",
                 "name": "守护的雷贞德",
                 "description": "蕴含着雷贞德对主君的忠诚.",
                 "live2d": "c054_01"
             },
             {
                 "code": "c054_02",
-                "avatar": "c0\/00000180.png",
+                "avatar": "c0\/00000182.png",
                 "name": "传说的雷贞德",
                 "description": "雷贞德对主公的赤诚之心.",
                 "live2d": "c054_02"
@@ -1562,25 +1576,25 @@
     },
     {
         "name": "尹多贞",
-        "avatar": "c0\/00000183.png",
+        "avatar": "c0\/00000185.png",
         "skins": [
             {
                 "code": "c055_00",
-                "avatar": "c0\/00000181.png",
+                "avatar": "c0\/00000183.png",
                 "name": "尹多贞",
                 "description": "勤奋的密涅瓦的外出服装.",
                 "live2d": "c055_00"
             },
             {
                 "code": "c055_01",
-                "avatar": "c0\/00000182.png",
+                "avatar": "c0\/00000184.png",
                 "name": "英杰密涅瓦",
                 "description": "可以看出天子密涅瓦的品格.",
                 "live2d": "c055_01"
             },
             {
                 "code": "c055_02",
-                "avatar": "c0\/00000183.png",
+                "avatar": "c0\/00000185.png",
                 "name": "无敌的密涅瓦",
                 "description": "密涅瓦的自豪感更上一层楼.",
                 "live2d": "c055_02"
@@ -1589,25 +1603,25 @@
     },
     {
         "name": "圣女贞德",
-        "avatar": "c0\/00000186.png",
+        "avatar": "c0\/00000188.png",
         "skins": [
             {
                 "code": "c056_00",
-                "avatar": "c0\/00000184.png",
+                "avatar": "c0\/00000186.png",
                 "name": "未发育的圣女贞德",
                 "description": "恶魔对这种衣服没有免疫力.",
                 "live2d": "c056_00"
             },
             {
                 "code": "c056_01",
-                "avatar": "c0\/00000185.png",
+                "avatar": "c0\/00000187.png",
                 "name": "献身的圣女贞德",
                 "description": "像恶魔穿着去战斗再好不过了…",
                 "live2d": "c056_01"
             },
             {
                 "code": "c056_02",
-                "avatar": "c0\/00000186.png",
+                "avatar": "c0\/00000188.png",
                 "name": "侍奉的圣女贞德",
                 "description": "即使对于恶魔来说也是可以传达福音让人感受到虔诚.",
                 "live2d": "c056_02"
@@ -1616,53 +1630,53 @@
     },
     {
         "name": "兰佩伊",
-        "avatar": "c0\/00000189.png",
+        "avatar": "c0\/00000191.png",
         "skins": [
             {
                 "code": "c057_00",
-                "avatar": "c0\/00000187.png",
+                "avatar": "c0\/00000189.png",
                 "name": "未发育的兰佩伊",
                 "description": "兰佩伊的茶杯中有着微微的苦涩.",
                 "live2d": "c057_00"
             },
             {
                 "code": "c057_01",
-                "avatar": "c0\/00000188.png",
+                "avatar": "c0\/00000190.png",
                 "name": "兰佩伊",
                 "description": "在九龙城寨看到的是错觉.",
                 "live2d": "c057_01"
             },
             {
                 "code": "c057_02",
-                "avatar": "c0\/00000189.png",
+                "avatar": "c0\/00000191.png",
                 "name": "黑星兰佩伊",
                 "description": "美丽和致命是一种差异.",
                 "live2d": "c057_02"
             },
             {
                 "code": "c057_10",
-                "avatar": "c0\/00000190.png",
+                "avatar": "c0\/00000192.png",
                 "name": "长夜之音兰佩伊",
                 "description": "为了达到目的, 兰佩伊什么都能做.",
                 "live2d": "c057_10"
             },
             {
                 "code": "c057_87",
-                "avatar": "c0\/00000191.png",
+                "avatar": "c0\/00000193.png",
                 "name": "长夜之音兰佩伊",
                 "description": "为了达到目的, 兰佩伊什么都能做.",
                 "live2d": "c057_87"
             },
             {
                 "code": "c057_88",
-                "avatar": "c0\/00000192.png",
+                "avatar": "c0\/00000194.png",
                 "name": "黑星兰佩伊",
                 "description": "美丽和致命是一种差异.",
                 "live2d": "c057_88"
             },
             {
                 "code": "c057_89",
-                "avatar": "c0\/00000193.png",
+                "avatar": "c0\/00000195.png",
                 "name": "兰佩伊",
                 "description": "在九龙城寨看到的是错觉.",
                 "live2d": "c057_89"
@@ -1671,25 +1685,25 @@
     },
     {
         "name": "尼尔提",
-        "avatar": "c0\/00000196.png",
+        "avatar": "c0\/00000198.png",
         "skins": [
             {
                 "code": "c058_00",
-                "avatar": "c0\/00000194.png",
+                "avatar": "c0\/00000196.png",
                 "name": "未发育的尼尔提",
                 "description": "驱魔师尼勒提的修炼服.",
                 "live2d": "c058_00"
             },
             {
                 "code": "c058_01",
-                "avatar": "c0\/00000195.png",
+                "avatar": "c0\/00000197.png",
                 "name": "驱魔师尼尔提",
                 "description": "能感受到尼尔提心象的服装.",
                 "live2d": "c058_01"
             },
             {
                 "code": "c058_02",
-                "avatar": "c0\/00000196.png",
+                "avatar": "c0\/00000198.png",
                 "name": "驱魔师尼尔提",
                 "description": "尼尔提的坚强意志成为了刀刃.",
                 "live2d": "c058_02"
@@ -1698,25 +1712,25 @@
     },
     {
         "name": "提西波涅",
-        "avatar": "c0\/00000199.png",
+        "avatar": "c0\/00000201.png",
         "skins": [
             {
                 "code": "c060_00",
-                "avatar": "c0\/00000197.png",
+                "avatar": "c0\/00000199.png",
                 "name": "未发育的提西波涅",
                 "description": "从头到脚都是白色… 你不是很爱耍帅么.",
                 "live2d": "c060_00"
             },
             {
                 "code": "c060_01",
-                "avatar": "c0\/00000198.png",
+                "avatar": "c0\/00000200.png",
                 "name": "逆袭提西波涅",
                 "description": "只看背影便可知不可随意接近~",
                 "live2d": "c060_01"
             },
             {
                 "code": "c060_02",
-                "avatar": "c0\/00000199.png",
+                "avatar": "c0\/00000201.png",
                 "name": "复仇者提西波涅",
                 "description": "危险的女人无论何时都充满了魅力.",
                 "live2d": "c060_02"
@@ -1725,25 +1739,25 @@
     },
     {
         "name": "赛莲",
-        "avatar": "c0\/00000202.png",
+        "avatar": "c0\/00000204.png",
         "skins": [
             {
                 "code": "c061_00",
-                "avatar": "c0\/00000200.png",
+                "avatar": "c0\/00000202.png",
                 "name": "未发育的赛莲",
                 "description": "听说过世界上最优雅的金属吧.",
                 "live2d": "c061_00"
             },
             {
                 "code": "c061_01",
-                "avatar": "c0\/00000201.png",
+                "avatar": "c0\/00000203.png",
                 "name": "无名的赛莲",
                 "description": "真正的舞台礼貌从穿着开始.",
                 "live2d": "c061_01"
             },
             {
                 "code": "c061_02",
-                "avatar": "c0\/00000202.png",
+                "avatar": "c0\/00000204.png",
                 "name": "深夜的赛莲",
                 "description": "装备上后会有种被恶魔跟随的感觉.",
                 "live2d": "c061_02"
@@ -1752,25 +1766,25 @@
     },
     {
         "name": "欧罗巴",
-        "avatar": "c0\/00000205.png",
+        "avatar": "c0\/00000207.png",
         "skins": [
             {
                 "code": "c062_00",
-                "avatar": "c0\/00000203.png",
+                "avatar": "c0\/00000205.png",
                 "name": "未发育的欧罗巴",
                 "description": "强烈推荐想享受爱与嫉妒的学生时代经验.",
                 "live2d": "c062_00"
             },
             {
                 "code": "c062_01",
-                "avatar": "c0\/00000204.png",
+                "avatar": "c0\/00000206.png",
                 "name": "芳香的欧罗巴",
                 "description": "都这样漂亮还不买账的话这男人绝对有问题.",
                 "live2d": "c062_01"
             },
             {
                 "code": "c062_02",
-                "avatar": "c0\/00000205.png",
+                "avatar": "c0\/00000207.png",
                 "name": "魅惑的欧罗巴",
                 "description": "到这样还不理解也不沟通的话会成大问题.",
                 "live2d": "c062_02"
@@ -1779,25 +1793,25 @@
     },
     {
         "name": "普利吉娅",
-        "avatar": "c0\/00000208.png",
+        "avatar": "c0\/00000210.png",
         "skins": [
             {
                 "code": "c063_00",
-                "avatar": "c0\/00000206.png",
+                "avatar": "c0\/00000208.png",
                 "name": "未发育的普利吉娅",
                 "description": "羞涩少女写的信件主人到底是谁呢?",
                 "live2d": "c063_00"
             },
             {
                 "code": "c063_01",
-                "avatar": "c0\/00000207.png",
+                "avatar": "c0\/00000209.png",
                 "name": "内心的普利吉娅",
                 "description": "信件是无价的.",
                 "live2d": "c063_01"
             },
             {
                 "code": "c063_02",
-                "avatar": "c0\/00000208.png",
+                "avatar": "c0\/00000210.png",
                 "name": "臆想的普利吉娅",
                 "description": "装满心意的信件价值一封就足矣.",
                 "live2d": "c063_02"
@@ -1806,25 +1820,25 @@
     },
     {
         "name": "美杜莎",
-        "avatar": "c0\/00000211.png",
+        "avatar": "c0\/00000213.png",
         "skins": [
             {
                 "code": "c064_00",
-                "avatar": "c0\/00000209.png",
+                "avatar": "c0\/00000211.png",
                 "name": "未发育的美杜莎",
                 "description": "美杜莎的品味更高一层次的服装.",
                 "live2d": "c064_00"
             },
             {
                 "code": "c064_01",
-                "avatar": "c0\/00000210.png",
+                "avatar": "c0\/00000212.png",
                 "name": "君临的美杜莎",
                 "description": "没有美杜莎形式的战斗装.",
                 "live2d": "c064_01"
             },
             {
                 "code": "c064_02",
-                "avatar": "c0\/00000211.png",
+                "avatar": "c0\/00000213.png",
                 "name": "平静的美杜莎",
                 "description": "出现了美杜莎的斗志形象.",
                 "live2d": "c064_02"
@@ -1833,25 +1847,25 @@
     },
     {
         "name": "埃拉多",
-        "avatar": "c0\/00000214.png",
+        "avatar": "c0\/00000216.png",
         "skins": [
             {
                 "code": "c065_00",
-                "avatar": "c0\/00000212.png",
+                "avatar": "c0\/00000214.png",
                 "name": "未发育的埃拉多",
                 "description": "社会生活好辛苦.",
                 "live2d": "c065_00"
             },
             {
                 "code": "c065_01",
-                "avatar": "c0\/00000213.png",
+                "avatar": "c0\/00000215.png",
                 "name": "绽放的埃拉多",
                 "description": "玫瑰和刺总是要在一起的.",
                 "live2d": "c065_01"
             },
             {
                 "code": "c065_02",
-                "avatar": "c0\/00000214.png",
+                "avatar": "c0\/00000216.png",
                 "name": "百花撩乱埃拉多",
                 "description": "适合的香水也准备好来了么?",
                 "live2d": "c065_02"
@@ -1860,25 +1874,25 @@
     },
     {
         "name": "艾迪沙",
-        "avatar": "c0\/00000217.png",
+        "avatar": "c0\/00000219.png",
         "skins": [
             {
                 "code": "c066_00",
-                "avatar": "c0\/00000215.png",
+                "avatar": "c0\/00000217.png",
                 "name": "未发育的艾迪沙",
                 "description": "国际象棋是欺骗的游戏.在笑脸下受到欺骗很难吧.",
                 "live2d": "c066_00"
             },
             {
                 "code": "c066_01",
-                "avatar": "c0\/00000216.png",
+                "avatar": "c0\/00000218.png",
                 "name": "自以为是的艾迪沙",
                 "description": "要想欺骗别人就要隐藏好表情.",
                 "live2d": "c066_01"
             },
             {
                 "code": "c066_02",
-                "avatar": "c0\/00000217.png",
+                "avatar": "c0\/00000219.png",
                 "name": "策略家艾迪沙",
                 "description": "装备后智力得到提升虽说很开心但也仅仅是开心.",
                 "live2d": "c066_02"
@@ -1887,25 +1901,25 @@
     },
     {
         "name": "塔纳托斯",
-        "avatar": "c0\/00000220.png",
+        "avatar": "c0\/00000222.png",
         "skins": [
             {
                 "code": "c067_00",
-                "avatar": "c0\/00000218.png",
+                "avatar": "c0\/00000220.png",
                 "name": "未发育的塔纳托斯",
                 "description": "身强力壮的小伙子禁止使用.",
                 "live2d": "c067_00"
             },
             {
                 "code": "c067_01",
-                "avatar": "c0\/00000219.png",
+                "avatar": "c0\/00000221.png",
                 "name": "未知的塔纳托斯",
                 "description": "黑色是死亡和毁灭的颜色.",
                 "live2d": "c067_01"
             },
             {
                 "code": "c067_02",
-                "avatar": "c0\/00000220.png",
+                "avatar": "c0\/00000222.png",
                 "name": "偶然的塔纳托斯",
                 "description": "黑色是安息和永恒的和平之色.",
                 "live2d": "c067_02"
@@ -1914,25 +1928,25 @@
     },
     {
         "name": "安博露西亚",
-        "avatar": "c0\/00000223.png",
+        "avatar": "c0\/00000225.png",
         "skins": [
             {
                 "code": "c068_00",
-                "avatar": "c0\/00000221.png",
+                "avatar": "c0\/00000223.png",
                 "name": "未发育的安博露西亚",
                 "description": "虽说围裙可以很好的保护衣服但料理依然很菜.",
                 "live2d": "c068_00"
             },
             {
                 "code": "c068_01",
-                "avatar": "c0\/00000222.png",
+                "avatar": "c0\/00000224.png",
                 "name": "挑战者安博露西亚",
                 "description": "你知道香肠是道多么难的料理么啊~!",
                 "live2d": "c068_01"
             },
             {
                 "code": "c068_02",
-                "avatar": "c0\/00000223.png",
+                "avatar": "c0\/00000225.png",
                 "name": "美食的安博露西亚",
                 "description": "不管什么甜点都交出来~!",
                 "live2d": "c068_02"
@@ -1941,25 +1955,25 @@
     },
     {
         "name": "普塔",
-        "avatar": "c0\/00000226.png",
+        "avatar": "c0\/00000228.png",
         "skins": [
             {
                 "code": "c069_00",
-                "avatar": "c0\/00000224.png",
+                "avatar": "c0\/00000226.png",
                 "name": "未发育的普塔",
                 "description": "扳手可不是用来打恶魔的武器.",
                 "live2d": "c069_00"
             },
             {
                 "code": "c069_01",
-                "avatar": "c0\/00000225.png",
+                "avatar": "c0\/00000227.png",
                 "name": "巧匠普塔",
                 "description": "想把那么大的扳手挥舞起来可不是件容易的事.",
                 "live2d": "c069_01"
             },
             {
                 "code": "c069_02",
-                "avatar": "c0\/00000226.png",
+                "avatar": "c0\/00000228.png",
                 "name": "调律的普塔",
                 "description": "愚蠢的恶魔不要把螺丝拧的那么紧!",
                 "live2d": "c069_02"
@@ -1968,25 +1982,25 @@
     },
     {
         "name": "由依",
-        "avatar": "c0\/00000229.png",
+        "avatar": "c0\/00000231.png",
         "skins": [
             {
                 "code": "c070_00",
-                "avatar": "c0\/00000227.png",
+                "avatar": "c0\/00000229.png",
                 "name": "未发育的由依",
                 "description": "安卓和豆沙面包是最棒的组合.",
                 "live2d": "c070_00"
             },
             {
                 "code": "c070_01",
-                "avatar": "c0\/00000228.png",
+                "avatar": "c0\/00000230.png",
                 "name": "未来的由依",
                 "description": "就算是唠叨也能感受到坚强的姐妹装.",
                 "live2d": "c070_01"
             },
             {
                 "code": "c070_02",
-                "avatar": "c0\/00000229.png",
+                "avatar": "c0\/00000231.png",
                 "name": "全部的由依",
                 "description": "姐姐要真的发火是很恐怖的说~",
                 "live2d": "c070_02"
@@ -1995,25 +2009,25 @@
     },
     {
         "name": "芬里尔",
-        "avatar": "c0\/00000232.png",
+        "avatar": "c0\/00000234.png",
         "skins": [
             {
                 "code": "c072_00",
-                "avatar": "c0\/00000230.png",
+                "avatar": "c0\/00000232.png",
                 "name": "未发育的芬里尔",
                 "description": "这并不是被排挤.我只是领先与世界…",
                 "live2d": "c072_00"
             },
             {
                 "code": "c072_01",
-                "avatar": "c0\/00000231.png",
+                "avatar": "c0\/00000233.png",
                 "name": "探索的芬里尔",
                 "description": "探险孤独沙漠的芬里尔战斗装.",
                 "live2d": "c072_01"
             },
             {
                 "code": "c072_02",
-                "avatar": "c0\/00000232.png",
+                "avatar": "c0\/00000234.png",
                 "name": "阴影芬里尔",
                 "description": "啃噬敌人心脏的芬里尔战斗装.",
                 "live2d": "c072_02"
@@ -2022,25 +2036,25 @@
     },
     {
         "name": "咪咪",
-        "avatar": "c0\/00000235.png",
+        "avatar": "c0\/00000237.png",
         "skins": [
             {
                 "code": "c073_00",
-                "avatar": "c0\/00000233.png",
+                "avatar": "c0\/00000235.png",
                 "name": "未发育的咪咪",
                 "description": "带有水手服细节咪咪的连衣裙.",
                 "live2d": "c073_00"
             },
             {
                 "code": "c073_01",
-                "avatar": "c0\/00000234.png",
+                "avatar": "c0\/00000236.png",
                 "name": "自嘲的咪咪",
                 "description": "满是咪咪冷嘲的连衣裙.",
                 "live2d": "c073_01"
             },
             {
                 "code": "c073_02",
-                "avatar": "c0\/00000235.png",
+                "avatar": "c0\/00000237.png",
                 "name": "虚无的咪咪",
                 "description": "用咪咪的虚无之泪制作的连衣裙.",
                 "live2d": "c073_02"
@@ -2049,25 +2063,25 @@
     },
     {
         "name": "奇里诺斯",
-        "avatar": "c0\/00000238.png",
+        "avatar": "c0\/00000240.png",
         "skins": [
             {
                 "code": "c074_00",
-                "avatar": "c0\/00000236.png",
+                "avatar": "c0\/00000238.png",
                 "name": "未发育的奇里诺斯",
                 "description": "真正的助威少女是不会掩盖工具的.",
                 "live2d": "c074_00"
             },
             {
                 "code": "c074_01",
-                "avatar": "c0\/00000237.png",
+                "avatar": "c0\/00000239.png",
                 "name": "加油的奇里诺斯",
                 "description": "翻车鱼是恶魔的朋友.",
                 "live2d": "c074_01"
             },
             {
                 "code": "c074_02",
-                "avatar": "c0\/00000238.png",
+                "avatar": "c0\/00000240.png",
                 "name": "热烈的奇里诺斯",
                 "description": "推荐想受到吉利助威的恶魔.",
                 "live2d": "c074_02"
@@ -2076,18 +2090,18 @@
     },
     {
         "name": "坦哈",
-        "avatar": "c0\/00000240.png",
+        "avatar": "c0\/00000242.png",
         "skins": [
             {
                 "code": "c075_01",
-                "avatar": "c0\/00000239.png",
+                "avatar": "c0\/00000241.png",
                 "name": "浓香的坦哈",
                 "description": "坦哈亲自挑选的黑色吊带小礼服.",
                 "live2d": "c075_01"
             },
             {
                 "code": "c075_02",
-                "avatar": "c0\/00000240.png",
+                "avatar": "c0\/00000242.png",
                 "name": "享乐的坦哈",
                 "description": "可发现坦哈新魔力的白色套装.",
                 "live2d": "c075_02"
@@ -2096,25 +2110,25 @@
     },
     {
         "name": "忒弥斯",
-        "avatar": "c0\/00000243.png",
+        "avatar": "c0\/00000245.png",
         "skins": [
             {
                 "code": "c081_00",
-                "avatar": "c0\/00000241.png",
+                "avatar": "c0\/00000243.png",
                 "name": "未发育的忒弥斯",
                 "description": "就连虔诚的淑女装也无法掩盖一颗向往自由热爱的心.",
                 "live2d": "c081_00"
             },
             {
                 "code": "c081_01",
-                "avatar": "c0\/00000242.png",
+                "avatar": "c0\/00000244.png",
                 "name": "决断的忒弥斯",
                 "description": "不用担心淑女装.只是COSPLAY而已.",
                 "live2d": "c081_01"
             },
             {
                 "code": "c081_02",
-                "avatar": "c0\/00000243.png",
+                "avatar": "c0\/00000245.png",
                 "name": "漂泊的忒弥斯",
                 "description": "淑女概念罢了.因此肯定不会有自备~!",
                 "live2d": "c081_02"
@@ -2123,25 +2137,25 @@
     },
     {
         "name": "卡尔克斯",
-        "avatar": "c0\/00000246.png",
+        "avatar": "c0\/00000248.png",
         "skins": [
             {
                 "code": "c082_00",
-                "avatar": "c0\/00000244.png",
+                "avatar": "c0\/00000246.png",
                 "name": "未发育的卡尔克斯",
                 "description": "装备后提升洞察力.必须要参考下倒霉的选项.",
                 "live2d": "c082_00"
             },
             {
                 "code": "c082_01",
-                "avatar": "c0\/00000245.png",
+                "avatar": "c0\/00000247.png",
                 "name": "娴熟的卡尔克斯",
                 "description": "用红袖章点缀的卡尔克斯的休闲夹克服装.",
                 "live2d": "c082_01"
             },
             {
                 "code": "c082_02",
-                "avatar": "c0\/00000246.png",
+                "avatar": "c0\/00000248.png",
                 "name": "先知眼卡尔克斯",
                 "description": "以奶白色来表象的清爽卡尔克斯休闲夹克服装.",
                 "live2d": "c082_02"
@@ -2150,25 +2164,25 @@
     },
     {
         "name": "内德",
-        "avatar": "c0\/00000249.png",
+        "avatar": "c0\/00000251.png",
         "skins": [
             {
                 "code": "c083_00",
-                "avatar": "c0\/00000247.png",
+                "avatar": "c0\/00000249.png",
                 "name": "未发育的内德",
                 "description": "再检查下背包.拥有枪支是非法的.",
                 "live2d": "c083_00"
             },
             {
                 "code": "c083_01",
-                "avatar": "c0\/00000248.png",
+                "avatar": "c0\/00000250.png",
                 "name": "战场  内德",
                 "description": "穿上后会提升战斗意志",
                 "live2d": "c083_01"
             },
             {
                 "code": "c083_02",
-                "avatar": "c0\/00000249.png",
+                "avatar": "c0\/00000251.png",
                 "name": "女团长内德",
                 "description": "穿上后会提升战斗力可能无法识别PIA, 请注意",
                 "live2d": "c083_02"
@@ -2177,25 +2191,25 @@
     },
     {
         "name": "帕里斯",
-        "avatar": "c0\/00000252.png",
+        "avatar": "c0\/00000254.png",
         "skins": [
             {
                 "code": "c085_00",
-                "avatar": "c0\/00000250.png",
+                "avatar": "c0\/00000252.png",
                 "name": "未发育的帕里斯",
                 "description": "拥有卓越审美感的帕里斯的刑警服",
                 "live2d": "c085_00"
             },
             {
                 "code": "c085_01",
-                "avatar": "c0\/00000251.png",
+                "avatar": "c0\/00000253.png",
                 "name": "毒口帕里斯",
                 "description": "可迷住贪得无厌之人的创造性外观.",
                 "live2d": "c085_01"
             },
             {
                 "code": "c085_02",
-                "avatar": "c0\/00000252.png",
+                "avatar": "c0\/00000254.png",
                 "name": "审判帕里斯",
                 "description": "可迷住时髦男人的时尚外观.",
                 "live2d": "c085_02"
@@ -2204,25 +2218,25 @@
     },
     {
         "name": "高佳",
-        "avatar": "c0\/00000255.png",
+        "avatar": "c0\/00000257.png",
         "skins": [
             {
                 "code": "c086_00",
-                "avatar": "c0\/00000253.png",
+                "avatar": "c0\/00000255.png",
                 "name": "未发育的高佳",
                 "description": "不要吃未经许可的巫婆做的汤.",
                 "live2d": "c086_00"
             },
             {
                 "code": "c086_01",
-                "avatar": "c0\/00000254.png",
+                "avatar": "c0\/00000256.png",
                 "name": "调味的高佳",
                 "description": "《烹饪是要精心去做的.》充满高佳的努力的战斗服饰.",
                 "live2d": "c086_01"
             },
             {
                 "code": "c086_02",
-                "avatar": "c0\/00000255.png",
+                "avatar": "c0\/00000257.png",
                 "name": "风味的高佳",
                 "description": "《烹饪是用心去做的.》充满高佳的爱的战斗服饰.",
                 "live2d": "c086_02"
@@ -2231,18 +2245,18 @@
     },
     {
         "name": "尼努尔塔",
-        "avatar": "c0\/00000257.png",
+        "avatar": "c0\/00000259.png",
         "skins": [
             {
                 "code": "c087_01",
-                "avatar": "c0\/00000256.png",
+                "avatar": "c0\/00000258.png",
                 "name": "纯白的尼努尔塔",
                 "description": "进行过激烈战斗的尼努尔塔服饰",
                 "live2d": "c087_01"
             },
             {
                 "code": "c087_02",
-                "avatar": "c0\/00000257.png",
+                "avatar": "c0\/00000259.png",
                 "name": "光辉的尼努尔塔",
                 "description": "充满真心的尼努尔塔战斗服饰.",
                 "live2d": "c087_02"
@@ -2251,25 +2265,25 @@
     },
     {
         "name": "兀儿肯",
-        "avatar": "c0\/00000260.png",
+        "avatar": "c0\/00000262.png",
         "skins": [
             {
                 "code": "c090_00",
-                "avatar": "c0\/00000258.png",
+                "avatar": "c0\/00000260.png",
                 "name": "未发育的兀儿肯",
                 "description": "虽然腿脚不方便,但是向着权利的意志别谁都要火热.",
                 "live2d": "c090_00"
             },
             {
                 "code": "c090_01",
-                "avatar": "c0\/00000259.png",
+                "avatar": "c0\/00000261.png",
                 "name": "苏生的兀儿肯",
                 "description": "可迷住古典范公子的洛可可服饰.",
                 "live2d": "c090_01"
             },
             {
                 "code": "c090_02",
-                "avatar": "c0\/00000260.png",
+                "avatar": "c0\/00000262.png",
                 "name": "复活的兀儿肯",
                 "description": "可迷住精炼公子的文艺复兴服饰.",
                 "live2d": "c090_02"
@@ -2278,25 +2292,25 @@
     },
     {
         "name": "玛依拉",
-        "avatar": "c0\/00000263.png",
+        "avatar": "c0\/00000265.png",
         "skins": [
             {
                 "code": "c091_00",
-                "avatar": "c0\/00000261.png",
+                "avatar": "c0\/00000263.png",
                 "name": "未发育的玛依拉",
                 "description": "能看出玛依拉的坚韧的夹克服饰",
                 "live2d": "c091_00"
             },
             {
                 "code": "c091_01",
-                "avatar": "c0\/00000262.png",
+                "avatar": "c0\/00000264.png",
                 "name": "守护玛依拉",
                 "description": "可看出玛依拉的残暴的基本服饰.",
                 "live2d": "c091_01"
             },
             {
                 "code": "c091_02",
-                "avatar": "c0\/00000263.png",
+                "avatar": "c0\/00000265.png",
                 "name": "忠诚的玛依拉",
                 "description": "玛依拉的力量被解放了.似乎谁都无法靠近.",
                 "live2d": "c091_02"
@@ -2305,18 +2319,18 @@
     },
     {
         "name": "阿尔米德",
-        "avatar": "c0\/00000265.png",
+        "avatar": "c0\/00000267.png",
         "skins": [
             {
                 "code": "c092_01",
-                "avatar": "c0\/00000264.png",
+                "avatar": "c0\/00000266.png",
                 "name": "一击的阿尔米德",
                 "description": "不会流一滴血一击就结束的酷酷的剑士.",
                 "live2d": "c092_01"
             },
             {
                 "code": "c092_02",
-                "avatar": "c0\/00000265.png",
+                "avatar": "c0\/00000267.png",
                 "name": "洁癖的阿尔米德",
                 "description": "把所有脏东西都砍干净的洁癖主义剑士.",
                 "live2d": "c092_02"
@@ -2325,25 +2339,25 @@
     },
     {
         "name": "贝斯塔",
-        "avatar": "c0\/00000268.png",
+        "avatar": "c0\/00000270.png",
         "skins": [
             {
                 "code": "c095_00",
-                "avatar": "c0\/00000266.png",
+                "avatar": "c0\/00000268.png",
                 "name": "未发育的贝斯塔",
                 "description": "我会努力到满身伤口的.",
                 "live2d": "c095_00"
             },
             {
                 "code": "c095_01",
-                "avatar": "c0\/00000267.png",
+                "avatar": "c0\/00000269.png",
                 "name": "热血贝斯塔",
                 "description": "佩戴后可以随意向人挑战,请注意.",
                 "live2d": "c095_01"
             },
             {
                 "code": "c095_02",
-                "avatar": "c0\/00000268.png",
+                "avatar": "c0\/00000270.png",
                 "name": "热火朝天的贝斯塔",
                 "description": "向胜利充满执着的贝斯塔的战斗服饰.",
                 "live2d": "c095_02"
@@ -2352,25 +2366,25 @@
     },
     {
         "name": "墨尔波墨涅",
-        "avatar": "c0\/00000271.png",
+        "avatar": "c0\/00000273.png",
         "skins": [
             {
                 "code": "c099_00",
-                "avatar": "c0\/00000269.png",
+                "avatar": "c0\/00000271.png",
                 "name": "未发育的墨尔波墨涅",
                 "description": "黑暗里的暗黑爱豆们来玩重金属摇滚吧.",
                 "live2d": "c099_00"
             },
             {
                 "code": "c099_01",
-                "avatar": "c0\/00000270.png",
+                "avatar": "c0\/00000272.png",
                 "name": "无聊的墨尔波墨涅",
                 "description": "穿上之后嗓子畅通了.",
                 "live2d": "c099_01"
             },
             {
                 "code": "c099_02",
-                "avatar": "c0\/00000271.png",
+                "avatar": "c0\/00000273.png",
                 "name": "狂音墨尔波墨涅",
                 "description": "果然摇滚要长发!",
                 "live2d": "c099_02"
@@ -4646,33 +4660,81 @@
         ]
     },
     {
-        "name": "朱庇特",
+        "name": "나가",
         "avatar": "c2\/00000028.png",
         "skins": [
             {
-                "code": "c214_00",
+                "code": "c213_01",
                 "avatar": "c2\/00000026.png",
+                "name": "무신나가",
+                "description": "정인을 찾아 헤매는 나가의 모습.",
+                "live2d": "c213_01"
+            },
+            {
+                "code": "c213_02",
+                "avatar": "c2\/00000027.png",
+                "name": "검신나가",
+                "description": "모든 무술을 깨우친 나가의 모습.",
+                "live2d": "c213_02"
+            },
+            {
+                "code": "c213_10",
+                "avatar": "c2\/00000028.png",
+                "name": "사귀일검나가",
+                "description": "진정한 무사의 힘을 발휘하는 나가의 모습.",
+                "live2d": "c213_10"
+            },
+            {
+                "code": "c213_87",
+                "avatar": "c2\/00000029.png",
+                "name": "사귀일검나가",
+                "description": "진정한 무사의 힘을 발휘하는 나가의 모습.",
+                "live2d": "c213_87"
+            },
+            {
+                "code": "c213_88",
+                "avatar": "c2\/00000030.png",
+                "name": "검신나가",
+                "description": "모든 무술을 깨우친 나가의 모습.",
+                "live2d": "c213_88"
+            },
+            {
+                "code": "c213_89",
+                "avatar": "c2\/00000031.png",
+                "name": "무신나가",
+                "description": "정인을 찾아 헤매는 나가의 모습.",
+                "live2d": "c213_89"
+            }
+        ]
+    },
+    {
+        "name": "朱庇特",
+        "avatar": "c2\/00000034.png",
+        "skins": [
+            {
+                "code": "c214_00",
+                "avatar": "c2\/00000032.png",
                 "name": "未发育的朱庇特",
                 "description": "环卫工人的条件是不朽的热情,和礼帽.",
                 "live2d": "c214_00"
             },
             {
                 "code": "c214_01",
-                "avatar": "c2\/00000027.png",
+                "avatar": "c2\/00000033.png",
                 "name": "实验的朱庇特",
                 "description": "绅士的条件是经典范儿西装,然后秘密的提箱包.",
                 "live2d": "c214_01"
             },
             {
                 "code": "c214_02",
-                "avatar": "c2\/00000028.png",
+                "avatar": "c2\/00000034.png",
                 "name": "称霸的朱庇特",
                 "description": "绅士的条件高尚的礼帽,奇怪的提箱包.",
                 "live2d": "c214_02"
             },
             {
                 "code": "c214_10",
-                "avatar": "c2\/00000029.png",
+                "avatar": "c2\/00000035.png",
                 "name": "赌博朱庇特",
                 "description": "百战百胜的她的秘密藏在哪危险的箱子里面.",
                 "live2d": "c214_10"
@@ -4681,11 +4743,11 @@
     },
     {
         "name": "苏尔特",
-        "avatar": "c2\/00000030.png",
+        "avatar": "c2\/00000036.png",
         "skins": [
             {
                 "code": "c215_00",
-                "avatar": "c2\/00000030.png",
+                "avatar": "c2\/00000036.png",
                 "name": "未发育的苏尔特",
                 "description": "从南国来的苏尔特的手工雨披包.",
                 "live2d": "c215_00"
@@ -4694,25 +4756,25 @@
     },
     {
         "name": "薇尔芙",
-        "avatar": "c2\/00000033.png",
+        "avatar": "c2\/00000039.png",
         "skins": [
             {
                 "code": "c216_00",
-                "avatar": "c2\/00000031.png",
+                "avatar": "c2\/00000037.png",
                 "name": "未发育的薇尔芙",
                 "description": "马戏团的主角,薇尔芙契约者的服饰",
                 "live2d": "c216_00"
             },
             {
                 "code": "c216_01",
-                "avatar": "c2\/00000032.png",
+                "avatar": "c2\/00000038.png",
                 "name": "月夜下的薇尔芙",
                 "description": "融入到影子里的隐蔽气息,恶狼的身影.",
                 "live2d": "c216_01"
             },
             {
                 "code": "c216_02",
-                "avatar": "c2\/00000033.png",
+                "avatar": "c2\/00000039.png",
                 "name": "万圣夜的薇尔芙",
                 "description": "当恶狼的野性唤醒的夜晚,恶狼逐渐袭来.",
                 "live2d": "c216_02"
@@ -4721,25 +4783,25 @@
     },
     {
         "name": "阿尔夫",
-        "avatar": "c2\/00000036.png",
+        "avatar": "c2\/00000042.png",
         "skins": [
             {
                 "code": "c218_00",
-                "avatar": "c2\/00000034.png",
+                "avatar": "c2\/00000040.png",
                 "name": "未发育的阿尔夫",
                 "description": "天子阿尔夫的契约者服装.",
                 "live2d": "c218_00"
             },
             {
                 "code": "c218_01",
-                "avatar": "c2\/00000035.png",
+                "avatar": "c2\/00000041.png",
                 "name": "充盈的阿尔夫",
                 "description": "满是阿尔夫爱意的服饰.光是穿着就让人笑出声来…",
                 "live2d": "c218_01"
             },
             {
                 "code": "c218_02",
-                "avatar": "c2\/00000036.png",
+                "avatar": "c2\/00000042.png",
                 "name": "幸福的阿尔夫",
                 "description": "为寻找最佳新郎人选而特制的蕴涵有阿尔夫愿望的特殊服饰",
                 "live2d": "c218_02"
@@ -4748,25 +4810,25 @@
     },
     {
         "name": "伊米勒",
-        "avatar": "c2\/00000039.png",
+        "avatar": "c2\/00000045.png",
         "skins": [
             {
                 "code": "c219_00",
-                "avatar": "c2\/00000037.png",
+                "avatar": "c2\/00000043.png",
                 "name": "未发育的伊米勒",
                 "description": "冰面上妖精,伊米勒的日常服饰.",
                 "live2d": "c219_00"
             },
             {
                 "code": "c219_01",
-                "avatar": "c2\/00000038.png",
+                "avatar": "c2\/00000044.png",
                 "name": "忘却的伊米勒",
                 "description": "冰面上的妖精,伊米勒的花样滑冰服饰.",
                 "live2d": "c219_01"
             },
             {
                 "code": "c219_02",
-                "avatar": "c2\/00000039.png",
+                "avatar": "c2\/00000045.png",
                 "name": "发掘的伊米勒",
                 "description": "冰面上的皇帝,伊米勒的花样滑冰服饰.",
                 "live2d": "c219_02"
@@ -4775,25 +4837,25 @@
     },
     {
         "name": "阿特洛波斯",
-        "avatar": "c2\/00000042.png",
+        "avatar": "c2\/00000048.png",
         "skins": [
             {
                 "code": "c220_00",
-                "avatar": "c2\/00000040.png",
+                "avatar": "c2\/00000046.png",
                 "name": "未发育的阿特洛波斯",
                 "description": "即使是赛场外也没有输的情况!",
                 "live2d": "c220_00"
             },
             {
                 "code": "c220_01",
-                "avatar": "c2\/00000041.png",
+                "avatar": "c2\/00000047.png",
                 "name": "奔跑的阿特洛波斯",
                 "description": "向胜利奔跑的阿特洛波斯的战斗服饰.",
                 "live2d": "c220_01"
             },
             {
                 "code": "c220_02",
-                "avatar": "c2\/00000042.png",
+                "avatar": "c2\/00000048.png",
                 "name": "进击的阿特洛波斯",
                 "description": "向最高进击的阿特洛波斯的战斗服饰.",
                 "live2d": "c220_02"
@@ -4802,25 +4864,25 @@
     },
     {
         "name": "雅娜",
-        "avatar": "c2\/00000045.png",
+        "avatar": "c2\/00000051.png",
         "skins": [
             {
                 "code": "c221_00",
-                "avatar": "c2\/00000043.png",
+                "avatar": "c2\/00000049.png",
                 "name": "未发育的雅娜",
                 "description": "别担心.这不是我的血而是敌人的血.",
                 "live2d": "c221_00"
             },
             {
                 "code": "c221_01",
-                "avatar": "c2\/00000044.png",
+                "avatar": "c2\/00000050.png",
                 "name": "满月的雅娜",
                 "description": "想象成为了现实!中2病少女的想象做成的雅娜的战斗服饰.",
                 "live2d": "c221_01"
             },
             {
                 "code": "c221_02",
-                "avatar": "c2\/00000045.png",
+                "avatar": "c2\/00000051.png",
                 "name": "乐园的雅娜",
                 "description": "黑蝴蝶是逆鬼煞的象征.女剑士雅娜的战斗服饰.",
                 "live2d": "c221_02"
@@ -4829,25 +4891,25 @@
     },
     {
         "name": "艾尔托拉",
-        "avatar": "c2\/00000048.png",
+        "avatar": "c2\/00000054.png",
         "skins": [
             {
                 "code": "c222_00",
-                "avatar": "c2\/00000046.png",
+                "avatar": "c2\/00000052.png",
                 "name": "未发育的艾尔托拉",
                 "description": "名牌虽然不适合我,不过先穿上再说~",
                 "live2d": "c222_00"
             },
             {
                 "code": "c222_01",
-                "avatar": "c2\/00000047.png",
+                "avatar": "c2\/00000053.png",
                 "name": "璀璨的艾尔托拉",
                 "description": "黄金50%的艾尔托拉专用晚礼服.",
                 "live2d": "c222_01"
             },
             {
                 "code": "c222_02",
-                "avatar": "c2\/00000048.png",
+                "avatar": "c2\/00000054.png",
                 "name": "理想的艾尔托拉",
                 "description": "纯金99.9%的艾尔托拉专用晚礼服.这样谁都无法穿上去啊.",
                 "live2d": "c222_02"
@@ -4856,25 +4918,25 @@
     },
     {
         "name": "艾雅",
-        "avatar": "c2\/00000051.png",
+        "avatar": "c2\/00000057.png",
         "skins": [
             {
                 "code": "c223_00",
-                "avatar": "c2\/00000049.png",
+                "avatar": "c2\/00000055.png",
                 "name": "未发育的艾雅",
                 "description": "在腰上点缀的海蓝色连衣裙的服饰.",
                 "live2d": "c223_00"
             },
             {
                 "code": "c223_01",
-                "avatar": "c2\/00000050.png",
+                "avatar": "c2\/00000056.png",
                 "name": "漂流的艾雅",
                 "description": "遥远的地方,漂流的艾雅的旅行者服饰.",
                 "live2d": "c223_01"
             },
             {
                 "code": "c223_02",
-                "avatar": "c2\/00000051.png",
+                "avatar": "c2\/00000057.png",
                 "name": "放浪的艾雅",
                 "description": "永远放浪的放浪者艾雅的人鱼西装",
                 "live2d": "c223_02"
@@ -4883,25 +4945,25 @@
     },
     {
         "name": "洛奇",
-        "avatar": "c2\/00000054.png",
+        "avatar": "c2\/00000060.png",
         "skins": [
             {
                 "code": "c224_00",
-                "avatar": "c2\/00000052.png",
+                "avatar": "c2\/00000058.png",
                 "name": "不成熟的洛奇",
                 "description": "小公子洛奇的日常服装.天真的表情下隐藏的\\心机与腹黑.",
                 "live2d": "c224_00"
             },
             {
                 "code": "c224_01",
-                "avatar": "c2\/00000053.png",
+                "avatar": "c2\/00000059.png",
                 "name": "洛基",
                 "description": "当愚蠢的人向神祈祷时,\\恶魔便拿着镰刀降临了.",
                 "live2d": "c224_01"
             },
             {
                 "code": "c224_02",
-                "avatar": "c2\/00000054.png",
+                "avatar": "c2\/00000060.png",
                 "name": "黑太子洛基",
                 "description": "伴随着深渊里振翅的声音\\恶魔洛奇降临了.",
                 "live2d": "c224_02"
@@ -4910,25 +4972,25 @@
     },
     {
         "name": "鲁道夫",
-        "avatar": "c2\/00000057.png",
+        "avatar": "c2\/00000063.png",
         "skins": [
             {
                 "code": "c225_00",
-                "avatar": "c2\/00000055.png",
+                "avatar": "c2\/00000061.png",
                 "name": "未发育的鲁道夫",
                 "description": "小偷鲁道夫的打工的服装.",
                 "live2d": "c225_00"
             },
             {
                 "code": "c225_01",
-                "avatar": "c2\/00000056.png",
+                "avatar": "c2\/00000062.png",
                 "name": "不速之客鲁道夫",
                 "description": "离家出走的青少年鲁道夫的工作服饰.放在麻袋里的不是礼物而是赃物.",
                 "live2d": "c225_01"
             },
             {
                 "code": "c225_02",
-                "avatar": "c2\/00000057.png",
+                "avatar": "c2\/00000063.png",
                 "name": "夜盗鲁道夫",
                 "description": "夜小偷鲁道夫的_工作服.已经装上了翅膀,没办法抓住了.",
                 "live2d": "c225_02"
@@ -4937,11 +4999,11 @@
     },
     {
         "name": "朗纳尔",
-        "avatar": "c2\/00000058.png",
+        "avatar": "c2\/00000064.png",
         "skins": [
             {
                 "code": "c226_01",
-                "avatar": "c2\/00000058.png",
+                "avatar": "c2\/00000064.png",
                 "name": "掠夺者朗纳尔",
                 "description": "天子朗纳尔的基本服饰.",
                 "live2d": "c226_01"
@@ -4950,25 +5012,25 @@
     },
     {
         "name": "玛弗德特",
-        "avatar": "c2\/00000061.png",
+        "avatar": "c2\/00000067.png",
         "skins": [
             {
                 "code": "c227_00",
-                "avatar": "c2\/00000059.png",
+                "avatar": "c2\/00000065.png",
                 "name": "未发育的玛弗德特",
                 "description": "如果有爸爸留下来的警察帽和警察棍就什么都不怕了.",
                 "live2d": "c227_00"
             },
             {
                 "code": "c227_01",
-                "avatar": "c2\/00000060.png",
+                "avatar": "c2\/00000066.png",
                 "name": "正义的玛弗德特",
                 "description": "玛弗德特的战斗服饰看到了之后如果觉得心里有鬼,那就乖乖去自首吧.",
                 "live2d": "c227_01"
             },
             {
                 "code": "c227_02",
-                "avatar": "c2\/00000061.png",
+                "avatar": "c2\/00000067.png",
                 "name": "独断的玛弗德特",
                 "description": "玛弗德特的战斗服饰摘下太阳镜的话命中率会上升.",
                 "live2d": "c227_02"
@@ -4977,25 +5039,25 @@
     },
     {
         "name": "金",
-        "avatar": "c2\/00000064.png",
+        "avatar": "c2\/00000070.png",
         "skins": [
             {
                 "code": "c228_00",
-                "avatar": "c2\/00000062.png",
+                "avatar": "c2\/00000068.png",
                 "name": "奥利维耶金",
                 "description": "离开法国时带来的法棍.\\保质期保密.",
                 "live2d": "c228_00"
             },
             {
                 "code": "c228_01",
-                "avatar": "c2\/00000063.png",
+                "avatar": "c2\/00000069.png",
                 "name": "缠绕的薇薇安",
                 "description": "喜欢红茶的薇薇安的战斗服.\\喝的红茶比想象中还要热…",
                 "live2d": "c228_01"
             },
             {
                 "code": "c228_02",
-                "avatar": "c2\/00000064.png",
+                "avatar": "c2\/00000070.png",
                 "name": "包庇的薇薇安",
                 "description": "一顶专门为讨厌阳光的她制作的特殊帽子.\\决不脱下.",
                 "live2d": "c228_02"
@@ -5004,32 +5066,32 @@
     },
     {
         "name": "布朗尼",
-        "avatar": "c2\/00000067.png",
+        "avatar": "c2\/00000073.png",
         "skins": [
             {
                 "code": "c229_00",
-                "avatar": "c2\/00000065.png",
+                "avatar": "c2\/00000071.png",
                 "name": "未发育的布朗尼",
                 "description": "晚话老鼠听,早话也是老鼠听这可是事实…",
                 "live2d": "c229_00"
             },
             {
                 "code": "c229_01",
-                "avatar": "c2\/00000066.png",
+                "avatar": "c2\/00000072.png",
                 "name": "信使布朗尼",
                 "description": "消息通布朗尼的水手服领口制服.",
                 "live2d": "c229_01"
             },
             {
                 "code": "c229_02",
-                "avatar": "c2\/00000067.png",
+                "avatar": "c2\/00000073.png",
                 "name": "宅急便布朗尼",
                 "description": "宅急送布朗尼的特别水手服领口制服.",
                 "live2d": "c229_02"
             },
             {
                 "code": "c229_10",
-                "avatar": "c2\/00000068.png",
+                "avatar": "c2\/00000074.png",
                 "name": "邮递员普拉武尼",
                 "description": "我是为你传递各种消息的情报通布朗尼!\\情书, 随感, 舞弊和弱点!什么都可以~!",
                 "live2d": "c229_10"
@@ -5038,25 +5100,25 @@
     },
     {
         "name": "诗蔻蒂",
-        "avatar": "c2\/00000071.png",
+        "avatar": "c2\/00000077.png",
         "skins": [
             {
                 "code": "c230_00",
-                "avatar": "c2\/00000069.png",
+                "avatar": "c2\/00000075.png",
                 "name": "未发育的诗蔻蒂",
                 "description": "少女的水手服拥有宇宙的命运.",
                 "live2d": "c230_00"
             },
             {
                 "code": "c230_01",
-                "avatar": "c2\/00000070.png",
+                "avatar": "c2\/00000076.png",
                 "name": "诅咒的诗蔻蒂",
                 "description": "封印着命运的诅咒的诗蔻蒂的战斗服.",
                 "live2d": "c230_01"
             },
             {
                 "code": "c230_02",
-                "avatar": "c2\/00000071.png",
+                "avatar": "c2\/00000077.png",
                 "name": "被鄙视的诗蔻蒂",
                 "description": "从命运的诅咒解放的诗蔻蒂的战斗服.",
                 "live2d": "c230_02"
@@ -5065,32 +5127,32 @@
     },
     {
         "name": "利亚西尔维亚",
-        "avatar": "c2\/00000074.png",
+        "avatar": "c2\/00000080.png",
         "skins": [
             {
                 "code": "c231_00",
-                "avatar": "c2\/00000072.png",
+                "avatar": "c2\/00000078.png",
                 "name": "未发育的利亚西尔维亚",
                 "description": "既然是蓝玫瑰的香气，说不定能够诱惑恶魔.",
                 "live2d": "c231_00"
             },
             {
                 "code": "c231_01",
-                "avatar": "c2\/00000073.png",
+                "avatar": "c2\/00000079.png",
                 "name": "赞美的利亚西尔维亚",
                 "description": "隐藏在柔软羽毛中少女的坚强理想\\散发出清新的蓝色香气.",
                 "live2d": "c231_01"
             },
             {
                 "code": "c231_02",
-                "avatar": "c2\/00000074.png",
+                "avatar": "c2\/00000080.png",
                 "name": "诱惑的利亚西尔维亚",
                 "description": "插着黑色翅膀飞起来的少女的理想是要攻陷你.",
                 "live2d": "c231_02"
             },
             {
                 "code": "c231_10",
-                "avatar": "c2\/00000075.png",
+                "avatar": "c2\/00000081.png",
                 "name": "伟大的利亚西尔维亚",
                 "description": "准备成为伟大母亲的利亚西尔维亚的特别服装.",
                 "live2d": "c231_10"
@@ -5099,25 +5161,25 @@
     },
     {
         "name": "达芙妮",
-        "avatar": "c2\/00000078.png",
+        "avatar": "c2\/00000084.png",
         "skins": [
             {
                 "code": "c232_00",
-                "avatar": "c2\/00000076.png",
+                "avatar": "c2\/00000082.png",
                 "name": "未发育的达芙妮",
                 "description": "如同偶像一般的面孔是无法拿着一顶帽子遮住的.",
                 "live2d": "c232_00"
             },
             {
                 "code": "c232_01",
-                "avatar": "c2\/00000077.png",
+                "avatar": "c2\/00000083.png",
                 "name": "幻想达芙妮",
                 "description": "在遥远的理想里听说这种衣服很流行…",
                 "live2d": "c232_01"
             },
             {
                 "code": "c232_02",
-                "avatar": "c2\/00000078.png",
+                "avatar": "c2\/00000084.png",
                 "name": "理想的达芙妮",
                 "description": "我在理想里看到穿白衣服的女神了…",
                 "live2d": "c232_02"
@@ -5126,25 +5188,25 @@
     },
     {
         "name": "阿尔格斯",
-        "avatar": "c2\/00000081.png",
+        "avatar": "c2\/00000087.png",
         "skins": [
             {
                 "code": "c233_00",
-                "avatar": "c2\/00000079.png",
+                "avatar": "c2\/00000085.png",
                 "name": "未发育的阿尔格斯",
                 "description": "在海边注意不要见到穿这种衣服的姐姐.",
                 "live2d": "c233_00"
             },
             {
                 "code": "c233_01",
-                "avatar": "c2\/00000080.png",
+                "avatar": "c2\/00000086.png",
                 "name": "战狂阿尔格斯",
                 "description": "阿尔格斯的战斗服为什么会湿成这个样子?",
                 "live2d": "c233_01"
             },
             {
                 "code": "c233_02",
-                "avatar": "c2\/00000081.png",
+                "avatar": "c2\/00000087.png",
                 "name": "白光阿尔格斯",
                 "description": "阿尔格斯的战斗服看你不小心把衣服弄的乱七八糟的.",
                 "live2d": "c233_02"
@@ -5153,32 +5215,32 @@
     },
     {
         "name": "赫尔克里士",
-        "avatar": "c2\/00000084.png",
+        "avatar": "c2\/00000090.png",
         "skins": [
             {
                 "code": "c234_00",
-                "avatar": "c2\/00000082.png",
+                "avatar": "c2\/00000088.png",
                 "name": "未发育的赫尔克里士",
                 "description": "如果怀着恶魔的内心据说人类也能变成恶魔…",
                 "live2d": "c234_00"
             },
             {
                 "code": "c234_01",
-                "avatar": "c2\/00000083.png",
+                "avatar": "c2\/00000089.png",
                 "name": "斗志赫尔克里士",
                 "description": "古垈的战士,赫尔克里士的战斗服.",
                 "live2d": "c234_01"
             },
             {
                 "code": "c234_02",
-                "avatar": "c2\/00000084.png",
+                "avatar": "c2\/00000090.png",
                 "name": "伟业赫尔克里士",
                 "description": "斯巴达勇士,赫尔克里士的战斗服.",
                 "live2d": "c234_02"
             },
             {
                 "code": "c234_10",
-                "avatar": "c2\/00000085.png",
+                "avatar": "c2\/00000091.png",
                 "name": "英雄赫尔克里士",
                 "description": "再次展现那次的荣耀…勇士赫尔克里士的斗魂是睁着眼睛的英雄赫尔克里士的皮肤.",
                 "live2d": "c234_10"
@@ -5187,25 +5249,25 @@
     },
     {
         "name": "达奴",
-        "avatar": "c2\/00000088.png",
+        "avatar": "c2\/00000094.png",
         "skins": [
             {
                 "code": "c235_00",
-                "avatar": "c2\/00000086.png",
+                "avatar": "c2\/00000092.png",
                 "name": "未发育的达奴",
                 "description": "一手撑天女刑警,达奴的日常服.",
                 "live2d": "c235_00"
             },
             {
                 "code": "c235_01",
-                "avatar": "c2\/00000087.png",
+                "avatar": "c2\/00000093.png",
                 "name": "一触即发达奴",
                 "description": "唯我独尊女战士,达奴的战斗服.",
                 "live2d": "c235_01"
             },
             {
                 "code": "c235_02",
-                "avatar": "c2\/00000088.png",
+                "avatar": "c2\/00000094.png",
                 "name": "反英雄达奴",
                 "description": "无可奈何女战士,达奴的战斗服.",
                 "live2d": "c235_02"
@@ -5214,25 +5276,25 @@
     },
     {
         "name": "笛梵",
-        "avatar": "c2\/00000091.png",
+        "avatar": "c2\/00000097.png",
         "skins": [
             {
                 "code": "c237_00",
-                "avatar": "c2\/00000089.png",
+                "avatar": "c2\/00000095.png",
                 "name": "未成熟的笛梵",
                 "description": "可获得点数的笛梵便衣.",
                 "live2d": "c237_00"
             },
             {
                 "code": "c237_01",
-                "avatar": "c2\/00000090.png",
+                "avatar": "c2\/00000096.png",
                 "name": "夜之庆典堤丰",
                 "description": "根据万圣节气氛穿的哥特式奶油白西装.",
                 "live2d": "c237_01"
             },
             {
                 "code": "c237_02",
-                "avatar": "c2\/00000091.png",
+                "avatar": "c2\/00000097.png",
                 "name": "万圣夜堤丰",
                 "description": "画着三夏之夜的黑色万圣节西装.",
                 "live2d": "c237_02"
@@ -5241,32 +5303,32 @@
     },
     {
         "name": "梅芙",
-        "avatar": "c2\/00000094.png",
+        "avatar": "c2\/00000100.png",
         "skins": [
             {
                 "code": "c238_00",
-                "avatar": "c2\/00000092.png",
+                "avatar": "c2\/00000098.png",
                 "name": "未发育的梅芙",
                 "description": "为了在人界活动而穿的时尚单纯化的梅芙变装用服饰",
                 "live2d": "c238_00"
             },
             {
                 "code": "c238_01",
-                "avatar": "c2\/00000093.png",
+                "avatar": "c2\/00000099.png",
                 "name": "和音梅芙",
                 "description": "充满万圣节偶像的可爱的梅芙的基本服饰",
                 "live2d": "c238_01"
             },
             {
                 "code": "c238_02",
-                "avatar": "c2\/00000094.png",
+                "avatar": "c2\/00000100.png",
                 "name": "首席梅芙",
                 "description": "充满万圣节应援团的调皮的梅芙的派对服饰",
                 "live2d": "c238_02"
             },
             {
                 "code": "c238_10",
-                "avatar": "c2\/00000095.png",
+                "avatar": "c2\/00000101.png",
                 "name": "万圣派对梅芙",
                 "description": "重新归来的恶魔的大节日!为了燃烧万圣节\\我媚舞姐姐又回来啦♪",
                 "live2d": "c238_10"
@@ -5275,25 +5337,25 @@
     },
     {
         "name": "迪亚努斯",
-        "avatar": "c2\/00000098.png",
+        "avatar": "c2\/00000104.png",
         "skins": [
             {
                 "code": "c239_01",
-                "avatar": "c2\/00000096.png",
+                "avatar": "c2\/00000102.png",
                 "name": "夜晚的迪亚努斯",
                 "description": "就像迪亚努斯的分身的巴祖卡.",
                 "live2d": "c239_01"
             },
             {
                 "code": "c239_02",
-                "avatar": "c2\/00000097.png",
+                "avatar": "c2\/00000103.png",
                 "name": "白夜迪亚努斯",
                 "description": "说上百句话不如直接开一枪!",
                 "live2d": "c239_02"
             },
             {
                 "code": "c239_10",
-                "avatar": "c2\/00000098.png",
+                "avatar": "c2\/00000104.png",
                 "name": "修士狄亚努斯",
                 "description": "去狩猎巧克力的狄亚努斯的特别制作服装.",
                 "live2d": "c239_10"
@@ -5302,11 +5364,11 @@
     },
     {
         "name": "奥库斯",
-        "avatar": "c2\/00000099.png",
+        "avatar": "c2\/00000105.png",
         "skins": [
             {
                 "code": "c241_01",
-                "avatar": "c2\/00000099.png",
+                "avatar": "c2\/00000105.png",
                 "name": "地下的奥库斯",
                 "description": "天子奥库斯的基本服饰.",
                 "live2d": "c241_01"
@@ -5315,25 +5377,25 @@
     },
     {
         "name": "阿尔勒",
-        "avatar": "c2\/00000102.png",
+        "avatar": "c2\/00000108.png",
         "skins": [
             {
                 "code": "c242_00",
-                "avatar": "c2\/00000100.png",
+                "avatar": "c2\/00000106.png",
                 "name": "未发育的阿尔勒",
                 "description": "奥利尔的伪装用幻术师服装.",
                 "live2d": "c242_00"
             },
             {
                 "code": "c242_01",
-                "avatar": "c2\/00000101.png",
+                "avatar": "c2\/00000107.png",
                 "name": "幻术师奥利尔",
                 "description": "谎话精奥利尔的巫术礼服.",
                 "live2d": "c242_01"
             },
             {
                 "code": "c242_02",
-                "avatar": "c2\/00000102.png",
+                "avatar": "c2\/00000108.png",
                 "name": "游行奥利尔",
                 "description": "万圣节支援团万圣节奥利尔的游行专用礼服.",
                 "live2d": "c242_02"
@@ -5342,18 +5404,18 @@
     },
     {
         "name": "春丽",
-        "avatar": "c2\/00000104.png",
+        "avatar": "c2\/00000110.png",
         "skins": [
             {
                 "code": "c244_01",
-                "avatar": "c2\/00000103.png",
+                "avatar": "c2\/00000109.png",
                 "name": "紧身衣春丽",
                 "description": "适合运动的蓝色紧身裤.穿上话会有一股无法形容的力量涌出.",
                 "live2d": "c244_01"
             },
             {
                 "code": "c244_02",
-                "avatar": "c2\/00000104.png",
+                "avatar": "c2\/00000110.png",
                 "name": "礼服春丽",
                 "description": "一个能看出美丽设计的中国礼服.为了准确的消化,有必要进行修炼.",
                 "live2d": "c244_02"
@@ -5362,18 +5424,18 @@
     },
     {
         "name": "倩咪",
-        "avatar": "c2\/00000106.png",
+        "avatar": "c2\/00000112.png",
         "skins": [
             {
                 "code": "c245_01",
-                "avatar": "c2\/00000105.png",
+                "avatar": "c2\/00000111.png",
                 "name": "红三角倩咪",
                 "description": "特殊部队德尔塔红色的正规战斗服.红色和绿色的混合是个特点.",
                 "live2d": "c245_01"
             },
             {
                 "code": "c245_02",
-                "avatar": "c2\/00000106.png",
+                "avatar": "c2\/00000112.png",
                 "name": "Dolls倩咪",
                 "description": "很久之前,被称作“杀手蜂”的时候穿过的战斗服.",
                 "live2d": "c245_02"
@@ -5382,53 +5444,53 @@
     },
     {
         "name": "克兰布斯",
-        "avatar": "c2\/00000109.png",
+        "avatar": "c2\/00000115.png",
         "skins": [
             {
                 "code": "c246_00",
-                "avatar": "c2\/00000107.png",
+                "avatar": "c2\/00000113.png",
                 "name": "未发育的克兰布斯",
                 "description": "在圣诞节悄然出现在都市的圣诞节妖精.",
                 "live2d": "c246_00"
             },
             {
                 "code": "c246_01",
-                "avatar": "c2\/00000108.png",
+                "avatar": "c2\/00000114.png",
                 "name": "欺骗的克兰布斯",
                 "description": "以圣诞节礼物送了克兰布斯的圣诞帽子.",
                 "live2d": "c246_01"
             },
             {
                 "code": "c246_02",
-                "avatar": "c2\/00000109.png",
+                "avatar": "c2\/00000115.png",
                 "name": "骗子手克兰布斯",
                 "description": "被发现的克兰布斯的原型.仍然很可爱.",
                 "live2d": "c246_02"
             },
             {
                 "code": "c246_10",
-                "avatar": "c2\/00000110.png",
+                "avatar": "c2\/00000116.png",
                 "name": "噩梦克兰布斯",
                 "description": "圣诞快乐!祝你做个恶魔~!",
                 "live2d": "c246_10"
             },
             {
                 "code": "c246_11",
-                "avatar": "c2\/00000111.png",
+                "avatar": "c2\/00000117.png",
                 "name": "恶童克兰布斯",
                 "description": "为了扰乱圣诞节里幸福的人而出现的圣诞节恶童!",
                 "live2d": "c246_11"
             },
             {
                 "code": "c246_88",
-                "avatar": "c2\/00000112.png",
+                "avatar": "c2\/00000118.png",
                 "name": "噩梦克兰布斯",
                 "description": "圣诞快乐!祝你做个恶魔~!",
                 "live2d": "c246_88"
             },
             {
                 "code": "c246_89",
-                "avatar": "c2\/00000113.png",
+                "avatar": "c2\/00000119.png",
                 "name": "恶童克兰布斯",
                 "description": "为了扰乱圣诞节里幸福的人而出现的圣诞节恶童!",
                 "live2d": "c246_89"
@@ -5437,25 +5499,25 @@
     },
     {
         "name": "米丽娜",
-        "avatar": "c2\/00000116.png",
+        "avatar": "c2\/00000122.png",
         "skins": [
             {
                 "code": "c247_00",
-                "avatar": "c2\/00000114.png",
+                "avatar": "c2\/00000120.png",
                 "name": "未发育的米丽娜",
                 "description": "用水手服领子衬衫和网球裙打扮的米丽娜的服饰.",
                 "live2d": "c247_00"
             },
             {
                 "code": "c247_01",
-                "avatar": "c2\/00000115.png",
+                "avatar": "c2\/00000121.png",
                 "name": "荣耀的米丽娜",
                 "description": "充满米丽娜的荣耀的国王的礼账.",
                 "live2d": "c247_01"
             },
             {
                 "code": "c247_02",
-                "avatar": "c2\/00000116.png",
+                "avatar": "c2\/00000122.png",
                 "name": "支配者米丽娜",
                 "description": "充满米丽娜的威严的战斗服饰.",
                 "live2d": "c247_02"
@@ -5464,25 +5526,25 @@
     },
     {
         "name": "珍妮",
-        "avatar": "c2\/00000119.png",
+        "avatar": "c2\/00000125.png",
         "skins": [
             {
                 "code": "c250_01",
-                "avatar": "c2\/00000117.png",
+                "avatar": "c2\/00000123.png",
                 "name": "水中的珍妮",
                 "description": "淘气的微笑虎视眈眈地盯着这边.",
                 "live2d": "c250_01"
             },
             {
                 "code": "c250_02",
-                "avatar": "c2\/00000118.png",
+                "avatar": "c2\/00000124.png",
                 "name": "水鬼珍妮",
                 "description": "不知道时间是怎么过去的, 玩着玩着都烧焦了.",
                 "live2d": "c250_02"
             },
             {
                 "code": "c250_88",
-                "avatar": "c2\/00000119.png",
+                "avatar": "c2\/00000125.png",
                 "name": "水鬼珍妮",
                 "description": "在珍妮面前要注意脚下.",
                 "live2d": "c250_88"
@@ -5491,18 +5553,18 @@
     },
     {
         "name": "盖尼米德",
-        "avatar": "c2\/00000121.png",
+        "avatar": "c2\/00000127.png",
         "skins": [
             {
                 "code": "c251_01",
-                "avatar": "c2\/00000120.png",
+                "avatar": "c2\/00000126.png",
                 "name": "引导的盖尼米德",
                 "description": "这是天子盖尼米德的基本服饰.",
                 "live2d": "c251_01"
             },
             {
                 "code": "c251_02",
-                "avatar": "c2\/00000121.png",
+                "avatar": "c2\/00000127.png",
                 "name": "策略家盖尼米德",
                 "description": "这是天子盖尼米德的觉醒服饰.",
                 "live2d": "c251_02"
@@ -5511,67 +5573,67 @@
     },
     {
         "name": "阿罗汉",
-        "avatar": "c2\/00000124.png",
+        "avatar": "c2\/00000130.png",
         "skins": [
             {
                 "code": "c252_00",
-                "avatar": "c2\/00000122.png",
+                "avatar": "c2\/00000128.png",
                 "name": "未成年的阿罗汉",
                 "description": "驱魔师阿罗汉在尘世生活中的便装.\\魅力点在于典雅可爱.",
                 "live2d": "c252_00"
             },
             {
                 "code": "c252_01",
-                "avatar": "c2\/00000123.png",
+                "avatar": "c2\/00000129.png",
                 "name": "驱魔师阿罗汉",
                 "description": "纯白是丢弃了所有业障和烦恼之人的形态.",
                 "live2d": "c252_01"
             },
             {
                 "code": "c252_02",
-                "avatar": "c2\/00000124.png",
+                "avatar": "c2\/00000130.png",
                 "name": "奉献的阿罗汉",
                 "description": "覆灭罪恶的阿罗汉之掌(手掌).",
                 "live2d": "c252_02"
             },
             {
                 "code": "c252_10",
-                "avatar": "c2\/00000125.png",
+                "avatar": "c2\/00000131.png",
                 "name": "苏夏娜",
                 "description": "越过陆地的阿罗汉心灵似乎装着某位少女的肉身.",
                 "live2d": "c252_10"
             },
             {
                 "code": "c252_11",
-                "avatar": "c2\/00000126.png",
+                "avatar": "c2\/00000132.png",
                 "name": "库玛里苏夏娜",
                 "description": "为了背负女神之业所穿的红裙子.",
                 "live2d": "c252_11"
             },
             {
                 "code": "c252_12",
-                "avatar": "c2\/00000127.png",
+                "avatar": "c2\/00000133.png",
                 "name": "天真浪漫阿罗汉",
                 "description": "",
                 "live2d": "c252_12"
             },
             {
                 "code": "c252_13",
-                "avatar": "c2\/00000128.png",
+                "avatar": "c2\/00000134.png",
                 "name": "无学的阿罗汉",
                 "description": "没有什么需要领悟, 只是需要教而已.",
                 "live2d": "c252_13"
             },
             {
                 "code": "c252_88",
-                "avatar": "c2\/00000129.png",
+                "avatar": "c2\/00000135.png",
                 "name": "奉献的阿罗汉",
                 "description": "灭掉魔君重修法度.",
                 "live2d": "c252_88"
             },
             {
                 "code": "c252_89",
-                "avatar": "c2\/00000130.png",
+                "avatar": "c2\/00000136.png",
                 "name": "驱魔师阿罗汉",
                 "description": "拯救无尽众生.斩断无休止的烦恼.",
                 "live2d": "c252_89"
@@ -5580,46 +5642,46 @@
     },
     {
         "name": "妮可",
-        "avatar": "c2\/00000133.png",
+        "avatar": "c2\/00000139.png",
         "skins": [
             {
                 "code": "c253_00",
-                "avatar": "c2\/00000131.png",
+                "avatar": "c2\/00000137.png",
                 "name": "未发育的妮可",
                 "description": "圣诞季前后妮可一直会是这种状态.",
                 "live2d": "c253_00"
             },
             {
                 "code": "c253_01",
-                "avatar": "c2\/00000132.png",
+                "avatar": "c2\/00000138.png",
                 "name": "荣耀妮可",
                 "description": "妮可的圣诞节专用工作服.礼品袋里的礼物是随机的.",
                 "live2d": "c253_01"
             },
             {
                 "code": "c253_02",
-                "avatar": "c2\/00000133.png",
+                "avatar": "c2\/00000139.png",
                 "name": "圣人妮可",
                 "description": "发礼物的妮可的圣诞节专用工作服.里面有炸弹的箱子是哪一个呢?",
                 "live2d": "c253_02"
             },
             {
                 "code": "c253_10",
-                "avatar": "c2\/00000134.png",
+                "avatar": "c2\/00000140.png",
                 "name": " 基督的诞生妮可",
                 "description": "神圣的前夜祭降临神的使者妮可的战斗服.",
                 "live2d": "c253_10"
             },
             {
                 "code": "c253_88",
-                "avatar": "c2\/00000135.png",
+                "avatar": "c2\/00000141.png",
                 "name": "荣耀妮可",
                 "description": "什么, 你也是来收礼物的?但是怎么办~\\送给恶魔的礼物只有心爱的雄鹰.",
                 "live2d": "c253_88"
             },
             {
                 "code": "c253_89",
-                "avatar": "c2\/00000136.png",
+                "avatar": "c2\/00000142.png",
                 "name": " 基督的诞生妮可",
                 "description": "什么, 你也是来收礼物的?但是怎么办~\\送给恶魔的礼物只有心爱的雄鹰.",
                 "live2d": "c253_89"
@@ -5628,11 +5690,11 @@
     },
     {
         "name": "达菲",
-        "avatar": "c2\/00000137.png",
+        "avatar": "c2\/00000143.png",
         "skins": [
             {
                 "code": "c254_01",
-                "avatar": "c2\/00000137.png",
+                "avatar": "c2\/00000143.png",
                 "name": "达菲",
                 "description": "",
                 "live2d": "c254_01"
@@ -5641,11 +5703,11 @@
     },
     {
         "name": "莫娜",
-        "avatar": "c2\/00000138.png",
+        "avatar": "c2\/00000144.png",
         "skins": [
             {
                 "code": "c255_01",
-                "avatar": "c2\/00000138.png",
+                "avatar": "c2\/00000144.png",
                 "name": "序言莫娜",
                 "description": "",
                 "live2d": "c255_01"
@@ -5654,11 +5716,11 @@
     },
     {
         "name": "莉萨",
-        "avatar": "c2\/00000139.png",
+        "avatar": "c2\/00000145.png",
         "skins": [
             {
                 "code": "c256_01",
-                "avatar": "c2\/00000139.png",
+                "avatar": "c2\/00000145.png",
                 "name": "莉萨",
                 "description": "",
                 "live2d": "c256_01"
@@ -5667,18 +5729,18 @@
     },
     {
         "name": "卡尔和斯",
-        "avatar": "c2\/00000141.png",
+        "avatar": "c2\/00000147.png",
         "skins": [
             {
                 "code": "c257_01",
-                "avatar": "c2\/00000140.png",
+                "avatar": "c2\/00000146.png",
                 "name": "殖民地领导卡尔和斯",
                 "description": "在比魔界还要深邃的人界地下里发现了卡尔和斯的斗篷.",
                 "live2d": "c257_01"
             },
             {
                 "code": "c257_02",
-                "avatar": "c2\/00000141.png",
+                "avatar": "c2\/00000147.png",
                 "name": "殖民地领导卡尔和斯",
                 "description": "充满悠久的历史和传动, 还有魔界的秘密的卡尔和斯的斗篷.",
                 "live2d": "c257_02"
@@ -5687,18 +5749,18 @@
     },
     {
         "name": "精灵",
-        "avatar": "c2\/00000143.png",
+        "avatar": "c2\/00000149.png",
         "skins": [
             {
                 "code": "c258_01",
-                "avatar": "c2\/00000142.png",
+                "avatar": "c2\/00000148.png",
                 "name": "想象的精灵",
                 "description": "用怜悯做出来的精灵的翅膀衣.",
                 "live2d": "c258_01"
             },
             {
                 "code": "c258_02",
-                "avatar": "c2\/00000143.png",
+                "avatar": "c2\/00000149.png",
                 "name": "理想的精灵",
                 "description": "用想念做出的精灵的翅膀衣.",
                 "live2d": "c258_02"
@@ -5707,18 +5769,18 @@
     },
     {
         "name": "萨拉修",
-        "avatar": "c2\/00000145.png",
+        "avatar": "c2\/00000151.png",
         "skins": [
             {
                 "code": "c261_01",
-                "avatar": "c2\/00000144.png",
+                "avatar": "c2\/00000150.png",
                 "name": "温泉的萨拉修",
                 "description": "可以复活的西天花园的主人本体.",
                 "live2d": "c261_01"
             },
             {
                 "code": "c261_02",
-                "avatar": "c2\/00000145.png",
+                "avatar": "c2\/00000151.png",
                 "name": "真实的萨拉修",
                 "description": "曾是想揭露过去真相的恶魔.",
                 "live2d": "c261_02"
@@ -5727,25 +5789,25 @@
     },
     {
         "name": "塔普妮丝",
-        "avatar": "c2\/00000148.png",
+        "avatar": "c2\/00000154.png",
         "skins": [
             {
                 "code": "c262_00",
-                "avatar": "c2\/00000146.png",
+                "avatar": "c2\/00000152.png",
                 "name": "未发育的塔普妮丝",
                 "description": "天子达佛涅斯的休闲短衣和艾娜梅短靴",
                 "live2d": "c262_00"
             },
             {
                 "code": "c262_01",
-                "avatar": "c2\/00000147.png",
+                "avatar": "c2\/00000153.png",
                 "name": "骑士塔普妮丝",
                 "description": "塔普妮丝专用,月季树为背景的光晕裙子",
                 "live2d": "c262_01"
             },
             {
                 "code": "c262_02",
-                "avatar": "c2\/00000148.png",
+                "avatar": "c2\/00000154.png",
                 "name": "勇气的塔普妮丝",
                 "description": "塔普妮丝的决战用身体套装",
                 "live2d": "c262_02"
@@ -5754,11 +5816,11 @@
     },
     {
         "name": "莫娜",
-        "avatar": "c2\/00000149.png",
+        "avatar": "c2\/00000155.png",
         "skins": [
             {
                 "code": "c265_01",
-                "avatar": "c2\/00000149.png",
+                "avatar": "c2\/00000155.png",
                 "name": "SD莫娜",
                 "description": "妖女莫娜得到了致命可爱性的升级.",
                 "live2d": "c265_01"
@@ -5767,25 +5829,25 @@
     },
     {
         "name": "荷鲁斯",
-        "avatar": "c2\/00000152.png",
+        "avatar": "c2\/00000158.png",
         "skins": [
             {
                 "code": "c266_00",
-                "avatar": "c2\/00000150.png",
+                "avatar": "c2\/00000156.png",
                 "name": "未发育的荷鲁斯",
                 "description": "伪装成人类的恶魔荷鲁斯.",
                 "live2d": "c266_00"
             },
             {
                 "code": "c266_01",
-                "avatar": "c2\/00000151.png",
+                "avatar": "c2\/00000157.png",
                 "name": "沙漠的荷鲁斯",
                 "description": "连灼热的太阳都不会畏惧的荷鲁斯的专用服饰.",
                 "live2d": "c266_01"
             },
             {
                 "code": "c266_02",
-                "avatar": "c2\/00000152.png",
+                "avatar": "c2\/00000158.png",
                 "name": "拉荷鲁斯",
                 "description": "以太阳神的样子刻画出的荷鲁斯的_战斗专用服饰.",
                 "live2d": "c266_02"
@@ -5794,53 +5856,53 @@
     },
     {
         "name": "克莉奥佩托拉",
-        "avatar": "c2\/00000155.png",
+        "avatar": "c2\/00000161.png",
         "skins": [
             {
                 "code": "c267_00",
-                "avatar": "c2\/00000153.png",
+                "avatar": "c2\/00000159.png",
                 "name": "未发育的克莉奥佩托拉",
                 "description": "很久之前,充满了统称天下的女人的记忆.",
                 "live2d": "c267_00"
             },
             {
                 "code": "c267_01",
-                "avatar": "c2\/00000154.png",
+                "avatar": "c2\/00000160.png",
                 "name": "轮回克莉奥佩托拉",
                 "description": "充满荷鲁斯的趣向的克里奥帕特拉的服饰.",
                 "live2d": "c267_01"
             },
             {
                 "code": "c267_02",
-                "avatar": "c2\/00000155.png",
+                "avatar": "c2\/00000161.png",
                 "name": "法老克莉奥佩托拉",
                 "description": "象征着克里奥帕特拉的权威的法老服饰.",
                 "live2d": "c267_02"
             },
             {
                 "code": "c267_10",
-                "avatar": "c2\/00000156.png",
+                "avatar": "c2\/00000162.png",
                 "name": "幻世的克莉奥佩托拉",
                 "description": "被奥拜里斯克守护着的克里奥帕特拉",
                 "live2d": "c267_10"
             },
             {
                 "code": "c267_11",
-                "avatar": "c2\/00000157.png",
+                "avatar": "c2\/00000163.png",
                 "name": "不灭克里奥帕特拉",
                 "description": "不灭的太阳之女, \\帕拉奥克里奥帕特拉的鼎盛时期的模样.",
                 "live2d": "c267_11"
             },
             {
                 "code": "c267_88",
-                "avatar": "c2\/00000158.png",
+                "avatar": "c2\/00000164.png",
                 "name": "不灭克里奥帕特拉",
                 "description": "不灭的太阳之女, \\帕拉奥克里奥帕特拉的鼎盛时期的模样.",
                 "live2d": "c267_88"
             },
             {
                 "code": "c267_89",
-                "avatar": "c2\/00000159.png",
+                "avatar": "c2\/00000165.png",
                 "name": "幻世的克莉奥佩托拉",
                 "description": "被奥拜里斯克守护着的克里奥帕特拉",
                 "live2d": "c267_89"
@@ -5849,18 +5911,18 @@
     },
     {
         "name": "精灵",
-        "avatar": "c2\/00000161.png",
+        "avatar": "c2\/00000167.png",
         "skins": [
             {
                 "code": "c269_01",
-                "avatar": "c2\/00000160.png",
+                "avatar": "c2\/00000166.png",
                 "name": "混沌精灵",
                 "description": "用孤独做出来的精灵的翅膀衣.",
                 "live2d": "c269_01"
             },
             {
                 "code": "c269_02",
-                "avatar": "c2\/00000161.png",
+                "avatar": "c2\/00000167.png",
                 "name": "大波斯菊精灵",
                 "description": "皮克西缥缈的羽衣.",
                 "live2d": "c269_02"
@@ -5869,18 +5931,18 @@
     },
     {
         "name": "精灵",
-        "avatar": "c2\/00000163.png",
+        "avatar": "c2\/00000169.png",
         "skins": [
             {
                 "code": "c270_01",
-                "avatar": "c2\/00000162.png",
+                "avatar": "c2\/00000168.png",
                 "name": "光精灵",
                 "description": "用幸福的梦境做出来的精灵的翅膀衣.",
                 "live2d": "c270_01"
             },
             {
                 "code": "c270_02",
-                "avatar": "c2\/00000163.png",
+                "avatar": "c2\/00000169.png",
                 "name": "白金精灵",
                 "description": "用希望做出来的精灵的翅膀衣.",
                 "live2d": "c270_02"
@@ -5889,18 +5951,18 @@
     },
     {
         "name": "精灵",
-        "avatar": "c2\/00000165.png",
+        "avatar": "c2\/00000171.png",
         "skins": [
             {
                 "code": "c271_01",
-                "avatar": "c2\/00000164.png",
+                "avatar": "c2\/00000170.png",
                 "name": "水精灵",
                 "description": "用寂静做出来的精灵的翅膀衣.",
                 "live2d": "c271_01"
             },
             {
                 "code": "c271_02",
-                "avatar": "c2\/00000165.png",
+                "avatar": "c2\/00000171.png",
                 "name": "蓝宝石精灵",
                 "description": "用沉睡做出来的精灵的翅膀衣.",
                 "live2d": "c271_02"
@@ -5909,18 +5971,18 @@
     },
     {
         "name": "精灵",
-        "avatar": "c2\/00000167.png",
+        "avatar": "c2\/00000173.png",
         "skins": [
             {
                 "code": "c272_01",
-                "avatar": "c2\/00000166.png",
+                "avatar": "c2\/00000172.png",
                 "name": "叶子精灵",
                 "description": "用平稳做出来的精灵的翅膀衣.",
                 "live2d": "c272_01"
             },
             {
                 "code": "c272_02",
-                "avatar": "c2\/00000167.png",
+                "avatar": "c2\/00000173.png",
                 "name": "翡翠精灵",
                 "description": "用开心的休息做出来的精灵的翅膀衣.",
                 "live2d": "c272_02"
@@ -5929,25 +5991,25 @@
     },
     {
         "name": "巴斯特",
-        "avatar": "c2\/00000170.png",
+        "avatar": "c2\/00000176.png",
         "skins": [
             {
                 "code": "c274_00",
-                "avatar": "c2\/00000168.png",
+                "avatar": "c2\/00000174.png",
                 "name": "未发育的巴斯特",
                 "description": "总是很开心的巴斯特的外出服饰!",
                 "live2d": "c274_00"
             },
             {
                 "code": "c274_01",
-                "avatar": "c2\/00000169.png",
+                "avatar": "c2\/00000175.png",
                 "name": "唱歌的巴斯特",
                 "description": "用微弱的猫咪的记忆一点点做出来的巴斯特的服饰.",
                 "live2d": "c274_01"
             },
             {
                 "code": "c274_02",
-                "avatar": "c2\/00000170.png",
+                "avatar": "c2\/00000176.png",
                 "name": "咆哮巴斯特",
                 "description": "魔方克里奥帕特拉的巴斯特的服饰.",
                 "live2d": "c274_02"
@@ -5956,25 +6018,25 @@
     },
     {
         "name": "哈菲",
-        "avatar": "c2\/00000173.png",
+        "avatar": "c2\/00000179.png",
         "skins": [
             {
                 "code": "c275_00",
-                "avatar": "c2\/00000171.png",
+                "avatar": "c2\/00000177.png",
                 "name": "未发育的哈菲",
                 "description": "突然出现在哈莱姆街舞台上的新星的舞台服装.",
                 "live2d": "c275_00"
             },
             {
                 "code": "c275_01",
-                "avatar": "c2\/00000172.png",
+                "avatar": "c2\/00000178.png",
                 "name": "逃亡者哈菲",
                 "description": "逃亡者哈菲的特征描述.\\发现后请立即向替补恶魔报告!",
                 "live2d": "c275_01"
             },
             {
                 "code": "c275_02",
-                "avatar": "c2\/00000173.png",
+                "avatar": "c2\/00000179.png",
                 "name": "逃犯哈菲",
                 "description": "哈菲成功逃狱的速报!\\注意不要被逃犯迷惑!",
                 "live2d": "c275_02"
@@ -5983,25 +6045,25 @@
     },
     {
         "name": "琉媞",
-        "avatar": "c2\/00000176.png",
+        "avatar": "c2\/00000182.png",
         "skins": [
             {
                 "code": "c277_00",
-                "avatar": "c2\/00000174.png",
+                "avatar": "c2\/00000180.png",
                 "name": "未发育的琉媞",
                 "description": "梦想着悠闲的午休的琉媞的日常服饰.",
                 "live2d": "c277_00"
             },
             {
                 "code": "c277_01",
-                "avatar": "c2\/00000175.png",
+                "avatar": "c2\/00000181.png",
                 "name": "下级妖精琉媞",
                 "description": "刚出社会的琉媞的礼服.",
                 "live2d": "c277_01"
             },
             {
                 "code": "c277_02",
-                "avatar": "c2\/00000176.png",
+                "avatar": "c2\/00000182.png",
                 "name": "合作伙伴琉媞",
                 "description": "尝到社会的苦头的琉媞的制服.",
                 "live2d": "c277_02"
@@ -6010,25 +6072,25 @@
     },
     {
         "name": "赫拉",
-        "avatar": "c2\/00000179.png",
+        "avatar": "c2\/00000185.png",
         "skins": [
             {
                 "code": "c278_00",
-                "avatar": "c2\/00000177.png",
+                "avatar": "c2\/00000183.png",
                 "name": "医生赫拉",
                 "description": "冷静的神经精神科医生赫拉的长袍.",
                 "live2d": "c278_00"
             },
             {
                 "code": "c278_01",
-                "avatar": "c2\/00000178.png",
+                "avatar": "c2\/00000184.png",
                 "name": "使役魔赫拉",
                 "description": "人造人赫拉的订制型制服.",
                 "live2d": "c278_01"
             },
             {
                 "code": "c278_02",
-                "avatar": "c2\/00000179.png",
+                "avatar": "c2\/00000185.png",
                 "name": "原型赫拉",
                 "description": "人造人赫拉的改良型制服.",
                 "live2d": "c278_02"
@@ -6037,39 +6099,39 @@
     },
     {
         "name": "劳佩",
-        "avatar": "c2\/00000182.png",
+        "avatar": "c2\/00000188.png",
         "skins": [
             {
                 "code": "c279_00",
-                "avatar": "c2\/00000180.png",
+                "avatar": "c2\/00000186.png",
                 "name": "医生劳佩",
                 "description": "亲切的神经精神科医生劳佩的长袍.",
                 "live2d": "c279_00"
             },
             {
                 "code": "c279_01",
-                "avatar": "c2\/00000181.png",
+                "avatar": "c2\/00000187.png",
                 "name": "莱米迪德劳菲",
                 "description": "人造人劳菲的订制型制服.",
                 "live2d": "c279_01"
             },
             {
                 "code": "c279_02",
-                "avatar": "c2\/00000182.png",
+                "avatar": "c2\/00000188.png",
                 "name": "使役魔劳菲",
                 "description": "人造人劳菲的改良型制服.",
                 "live2d": "c279_02"
             },
             {
                 "code": "c279_88",
-                "avatar": "c2\/00000183.png",
+                "avatar": "c2\/00000189.png",
                 "name": "使役魔劳菲",
                 "description": "非常没有礼貌的客人.\\应该需要特别的教育.",
                 "live2d": "c279_88"
             },
             {
                 "code": "c279_89",
-                "avatar": "c2\/00000184.png",
+                "avatar": "c2\/00000190.png",
                 "name": "莱米迪德劳菲",
                 "description": "哎呀, 有趣的客人来了.\\欢迎光临.",
                 "live2d": "c279_89"
@@ -6078,18 +6140,18 @@
     },
     {
         "name": "蒂克",
-        "avatar": "c2\/00000186.png",
+        "avatar": "c2\/00000192.png",
         "skins": [
             {
                 "code": "c280_01",
-                "avatar": "c2\/00000185.png",
+                "avatar": "c2\/00000191.png",
                 "name": "愉快的蒂克",
                 "description": "和蒂克一起的开心的时光!",
                 "live2d": "c280_01"
             },
             {
                 "code": "c280_02",
-                "avatar": "c2\/00000186.png",
+                "avatar": "c2\/00000192.png",
                 "name": "梦境的蒂克",
                 "description": "和蒂克一起的刺激的时间!",
                 "live2d": "c280_02"
@@ -6098,39 +6160,39 @@
     },
     {
         "name": "提斯伯",
-        "avatar": "c2\/00000189.png",
+        "avatar": "c2\/00000195.png",
         "skins": [
             {
                 "code": "c281_00",
-                "avatar": "c2\/00000187.png",
+                "avatar": "c2\/00000193.png",
                 "name": "不成熟的提斯伯",
                 "description": "寻找乐园... 跟我的调养......",
                 "live2d": "c281_00"
             },
             {
                 "code": "c281_01",
-                "avatar": "c2\/00000188.png",
+                "avatar": "c2\/00000194.png",
                 "name": "逃跑的提斯伯",
                 "description": "躲在黑色披风里的悲伤少女.",
                 "live2d": "c281_01"
             },
             {
                 "code": "c281_02",
-                "avatar": "c2\/00000189.png",
+                "avatar": "c2\/00000195.png",
                 "name": "迷宫之提斯伯",
                 "description": "在乐园里开的花要比你更漂亮.",
                 "live2d": "c281_02"
             },
             {
                 "code": "c281_10",
-                "avatar": "c2\/00000190.png",
+                "avatar": "c2\/00000196.png",
                 "name": "偃月的提斯伯",
                 "description": "为了找到乐园, 她不再逃跑而是选择坦然面对.",
                 "live2d": "c281_10"
             },
             {
                 "code": "c281_87",
-                "avatar": "c2\/00000191.png",
+                "avatar": "c2\/00000197.png",
                 "name": "偃月的提斯伯",
                 "description": "如果能把契约者派到乐园里, 就算牺牲掉自己也无所谓.",
                 "live2d": "c281_87"
@@ -6139,53 +6201,53 @@
     },
     {
         "name": "摩根",
-        "avatar": "c2\/00000194.png",
+        "avatar": "c2\/00000200.png",
         "skins": [
             {
                 "code": "c283_00",
-                "avatar": "c2\/00000192.png",
+                "avatar": "c2\/00000198.png",
                 "name": "未发育的摩根",
                 "description": "<Cafe de petit>的职员专用制服.",
                 "live2d": "c283_00"
             },
             {
                 "code": "c283_01",
-                "avatar": "c2\/00000193.png",
+                "avatar": "c2\/00000199.png",
                 "name": "女仆摩根",
                 "description": "贝尔德莱为摩根\\特制的女佣服.",
                 "live2d": "c283_01"
             },
             {
                 "code": "c283_02",
-                "avatar": "c2\/00000194.png",
+                "avatar": "c2\/00000200.png",
                 "name": "侍者摩根",
                 "description": "在贝尔德莱身边时\\非常合适的摩根限定女佣服.",
                 "live2d": "c283_02"
             },
             {
                 "code": "c283_10",
-                "avatar": "c2\/00000195.png",
+                "avatar": "c2\/00000201.png",
                 "name": "皇家侍者摩根",
                 "description": "为了只属于我的你…\\独一无二的主人的助手摩根的战斗服饰.",
                 "live2d": "c283_10"
             },
             {
                 "code": "c283_11",
-                "avatar": "c2\/00000196.png",
+                "avatar": "c2\/00000202.png",
                 "name": "忠诚之剑摩根",
                 "description": "永远的中诚信如同永远不会生锈的剑一样.",
                 "live2d": "c283_11"
             },
             {
                 "code": "c283_12",
-                "avatar": "c2\/00000197.png",
+                "avatar": "c2\/00000203.png",
                 "name": "经典仆人摩根",
                 "description": "黑与白的古典样式.\\忠实仆人摩根的战斗服饰.",
                 "live2d": "c283_12"
             },
             {
                 "code": "c283_89",
-                "avatar": "c2\/00000198.png",
+                "avatar": "c2\/00000204.png",
                 "name": "皇家侍者摩根",
                 "description": "为了只属于我的你…\\独一无二的主人的助手摩根的战斗服饰.",
                 "live2d": "c283_89"
@@ -6194,32 +6256,32 @@
     },
     {
         "name": "纳塔利斯",
-        "avatar": "c2\/00000201.png",
+        "avatar": "c2\/00000207.png",
         "skins": [
             {
                 "code": "c285_01",
-                "avatar": "c2\/00000199.png",
+                "avatar": "c2\/00000205.png",
                 "name": "开战纳塔利斯",
                 "description": "守护盛大的战场的纳塔利斯的伟容很令人敬佩.",
                 "live2d": "c285_01"
             },
             {
                 "code": "c285_02",
-                "avatar": "c2\/00000200.png",
+                "avatar": "c2\/00000206.png",
                 "name": "启示纳塔利斯",
                 "description": "包着的宝石都是纳塔利斯的个人收藏品.",
                 "live2d": "c285_02"
             },
             {
                 "code": "c285_10",
-                "avatar": "c2\/00000201.png",
+                "avatar": "c2\/00000207.png",
                 "name": "向导纳塔利斯",
                 "description": "引领荣耀舞台的向导, 纳塔利斯专用服饰.",
                 "live2d": "c285_10"
             },
             {
                 "code": "c285_11",
-                "avatar": "c2\/00000202.png",
+                "avatar": "c2\/00000208.png",
                 "name": "武运的纳塔利斯",
                 "description": "地狱的英雄们啊.\\睁开眼看看武运之女神纳塔利斯吧.",
                 "live2d": "c285_11"
@@ -6228,25 +6290,25 @@
     },
     {
         "name": "贝尔德雷",
-        "avatar": "c2\/00000205.png",
+        "avatar": "c2\/00000211.png",
         "skins": [
             {
                 "code": "c286_00",
-                "avatar": "c2\/00000203.png",
+                "avatar": "c2\/00000209.png",
                 "name": "未发育的贝尔德雷",
                 "description": "女仆咖啡店<Cafe de petit>的店长制服.",
                 "live2d": "c286_00"
             },
             {
                 "code": "c286_01",
-                "avatar": "c2\/00000204.png",
+                "avatar": "c2\/00000210.png",
                 "name": "等待的贝尔德雷",
                 "description": "执事贝尔德雷的干净整洁的西装.",
                 "live2d": "c286_01"
             },
             {
                 "code": "c286_02",
-                "avatar": "c2\/00000205.png",
+                "avatar": "c2\/00000211.png",
                 "name": "执事贝亚德雷",
                 "description": "我们开始宴会吧?您的得力助手,贝尔德雷的战斗服.",
                 "live2d": "c286_02"
@@ -6255,39 +6317,39 @@
     },
     {
         "name": "萨洛梅",
-        "avatar": "c2\/00000208.png",
+        "avatar": "c2\/00000214.png",
         "skins": [
             {
                 "code": "c287_00",
-                "avatar": "c2\/00000206.png",
+                "avatar": "c2\/00000212.png",
                 "name": "未发育的萨洛梅",
                 "description": "舞蹈界的希望之星, 萨洛梅的练习服.",
                 "live2d": "c287_00"
             },
             {
                 "code": "c287_01",
-                "avatar": "c2\/00000207.png",
+                "avatar": "c2\/00000213.png",
                 "name": "跳跃的萨洛梅",
                 "description": "伸缩性极强的萨洛梅战斗服.",
                 "live2d": "c287_01"
             },
             {
                 "code": "c287_02",
-                "avatar": "c2\/00000208.png",
+                "avatar": "c2\/00000214.png",
                 "name": "舞姬萨洛梅",
                 "description": "灵活性加上优美更带劲儿的萨洛梅战斗服.",
                 "live2d": "c287_02"
             },
             {
                 "code": "c287_88",
-                "avatar": "c2\/00000209.png",
+                "avatar": "c2\/00000215.png",
                 "name": "舞姬萨洛梅",
                 "description": "灵活性加上优美更带劲儿的萨洛梅战斗服.",
                 "live2d": "c287_88"
             },
             {
                 "code": "c287_89",
-                "avatar": "c2\/00000210.png",
+                "avatar": "c2\/00000216.png",
                 "name": "跳跃的萨洛梅",
                 "description": "伸缩性极强的萨洛梅战斗服.",
                 "live2d": "c287_89"
@@ -6296,32 +6358,32 @@
     },
     {
         "name": "杜兰达",
-        "avatar": "c2\/00000213.png",
+        "avatar": "c2\/00000219.png",
         "skins": [
             {
                 "code": "c289_00",
-                "avatar": "c2\/00000211.png",
+                "avatar": "c2\/00000217.png",
                 "name": "未发育的杜兰达",
                 "description": "看着卢法斯大概魔方的人类生活用服饰.",
                 "live2d": "c289_00"
             },
             {
                 "code": "c289_01",
-                "avatar": "c2\/00000212.png",
+                "avatar": "c2\/00000218.png",
                 "name": "幻影杜兰达",
                 "description": "总是不会丢失尊严的杜兰达的战斗用西装.",
                 "live2d": "c289_01"
             },
             {
                 "code": "c289_02",
-                "avatar": "c2\/00000213.png",
+                "avatar": "c2\/00000219.png",
                 "name": "噩梦杜兰达",
                 "description": "为了把杜兰达的力量最大限度的激发出来而存在的灰色战斗用西装.",
                 "live2d": "c289_02"
             },
             {
                 "code": "c289_10",
-                "avatar": "c2\/00000214.png",
+                "avatar": "c2\/00000220.png",
                 "name": "灾难杜兰达",
                 "description": "一度曾作为恐怖的代名词杜兰达的战斗用正装.",
                 "live2d": "c289_10"
@@ -6330,25 +6392,25 @@
     },
     {
         "name": "普利基德",
-        "avatar": "c2\/00000217.png",
+        "avatar": "c2\/00000223.png",
         "skins": [
             {
                 "code": "c290_00",
-                "avatar": "c2\/00000215.png",
+                "avatar": "c2\/00000221.png",
                 "name": "幼稚的普利基德",
                 "description": "深红色普利基德用婴儿石.",
                 "live2d": "c290_00"
             },
             {
                 "code": "c290_01",
-                "avatar": "c2\/00000216.png",
+                "avatar": "c2\/00000222.png",
                 "name": "迷惑普利基德",
                 "description": "雾中绽放的红玫瑰.\\普利基德的深红玫瑰礼服.",
                 "live2d": "c290_01"
             },
             {
                 "code": "c290_02",
-                "avatar": "c2\/00000217.png",
+                "avatar": "c2\/00000223.png",
                 "name": "火轮布利基德",
                 "description": "愉悦中绽放的血色玫瑰.\\华丽的普利基德贝拉礼服.",
                 "live2d": "c290_02"
@@ -6357,25 +6419,25 @@
     },
     {
         "name": "路茵",
-        "avatar": "c2\/00000220.png",
+        "avatar": "c2\/00000226.png",
         "skins": [
             {
                 "code": "c292_00",
-                "avatar": "c2\/00000218.png",
+                "avatar": "c2\/00000224.png",
                 "name": "未发育的路茵",
                 "description": "要尊重而且感谢!路茵的剑道示范服饰.",
                 "live2d": "c292_00"
             },
             {
                 "code": "c292_01",
-                "avatar": "c2\/00000219.png",
+                "avatar": "c2\/00000225.png",
                 "name": "盲从路茵",
                 "description": "平静落下来的剪影很像一个影子.",
                 "live2d": "c292_01"
             },
             {
                 "code": "c292_02",
-                "avatar": "c2\/00000220.png",
+                "avatar": "c2\/00000226.png",
                 "name": "复仇之枪路茵",
                 "description": "红色徽章是象征着路茵的忠诚心的颜色.",
                 "live2d": "c292_02"
@@ -6384,32 +6446,32 @@
     },
     {
         "name": "伊丽莎白",
-        "avatar": "c2\/00000223.png",
+        "avatar": "c2\/00000229.png",
         "skins": [
             {
                 "code": "c294_00",
-                "avatar": "c2\/00000221.png",
+                "avatar": "c2\/00000227.png",
                 "name": "学生会长伊丽莎白",
                 "description": "过度遵守校规的学生会长伊丽莎白的校服",
                 "live2d": "c294_00"
             },
             {
                 "code": "c294_01",
-                "avatar": "c2\/00000222.png",
+                "avatar": "c2\/00000228.png",
                 "name": "女士巴托里",
                 "description": "能保持把图里的风采的哥特式长裙.",
                 "live2d": "c294_01"
             },
             {
                 "code": "c294_02",
-                "avatar": "c2\/00000223.png",
+                "avatar": "c2\/00000229.png",
                 "name": "血腥巴托里",
                 "description": "加上了像黑夜一样深邃细节的巴托里的宴会用服饰",
                 "live2d": "c294_02"
             },
             {
                 "code": "c294_10",
-                "avatar": "c2\/00000224.png",
+                "avatar": "c2\/00000230.png",
                 "name": "疯人院巴托丽",
                 "description": "痛苦和愤怒是黑蛇的食物.\\盘起的蛇终于抬起了头.",
                 "live2d": "c294_10"
@@ -6418,32 +6480,32 @@
     },
     {
         "name": "德蕾莎",
-        "avatar": "c2\/00000227.png",
+        "avatar": "c2\/00000233.png",
         "skins": [
             {
                 "code": "c295_00",
-                "avatar": "c2\/00000225.png",
+                "avatar": "c2\/00000231.png",
                 "name": "圣米卡尔的德蕾莎",
                 "description": "圣米迦勒高中的休闲校服非常合适.",
                 "live2d": "c295_00"
             },
             {
                 "code": "c295_01",
-                "avatar": "c2\/00000226.png",
+                "avatar": "c2\/00000232.png",
                 "name": "做梦的安努恩",
                 "description": "永远沉睡的安努恩.你在做什么梦呢?",
                 "live2d": "c295_01"
             },
             {
                 "code": "c295_02",
-                "avatar": "c2\/00000227.png",
+                "avatar": "c2\/00000233.png",
                 "name": "寂静的安努恩",
                 "description": "微微一笑的安努恩.也许很快就可以醒来…",
                 "live2d": "c295_02"
             },
             {
                 "code": "c295_10",
-                "avatar": "c2\/00000228.png",
+                "avatar": "c2\/00000234.png",
                 "name": "安努恩",
                 "description": "",
                 "live2d": "c295_10"
@@ -6452,25 +6514,25 @@
     },
     {
         "name": "希尔德",
-        "avatar": "c2\/00000231.png",
+        "avatar": "c2\/00000237.png",
         "skins": [
             {
                 "code": "c296_00",
-                "avatar": "c2\/00000229.png",
+                "avatar": "c2\/00000235.png",
                 "name": "未发育的希尔德",
                 "description": "装在箱子里面是真的来复枪哦… 可不是什么普通的大提琴.",
                 "live2d": "c296_00"
             },
             {
                 "code": "c296_01",
-                "avatar": "c2\/00000230.png",
+                "avatar": "c2\/00000236.png",
                 "name": "枪手希尔德",
                 "description": "适合大步枪的希尔德的特制女仆装.",
                 "live2d": "c296_01"
             },
             {
                 "code": "c296_02",
-                "avatar": "c2\/00000231.png",
+                "avatar": "c2\/00000237.png",
                 "name": "瓦尔基丽雅希尔德",
                 "description": "战斗准备好了!我们去迎接可爱的客人吧~?",
                 "live2d": "c296_02"
@@ -6479,25 +6541,25 @@
     },
     {
         "name": "红色女皇",
-        "avatar": "c2\/00000234.png",
+        "avatar": "c2\/00000240.png",
         "skins": [
             {
                 "code": "c297_00",
-                "avatar": "c2\/00000232.png",
+                "avatar": "c2\/00000238.png",
                 "name": "未发育的红色女皇",
                 "description": "隐藏在某种狂人的孤独中的另一种自我.",
                 "live2d": "c297_00"
             },
             {
                 "code": "c297_01",
-                "avatar": "c2\/00000233.png",
+                "avatar": "c2\/00000239.png",
                 "name": "高贵的红色女皇",
                 "description": "紧握住你的咽喉的红色女皇的力量套装.",
                 "live2d": "c297_01"
             },
             {
                 "code": "c297_02",
-                "avatar": "c2\/00000234.png",
+                "avatar": "c2\/00000240.png",
                 "name": "完美的红色女皇",
                 "description": "那么, 执行处刑吧?女王 红色女王的执行套装.",
                 "live2d": "c297_02"
@@ -6506,25 +6568,25 @@
     },
     {
         "name": "圣诞老人",
-        "avatar": "c2\/00000237.png",
+        "avatar": "c2\/00000243.png",
         "skins": [
             {
                 "code": "c299_00",
-                "avatar": "c2\/00000235.png",
+                "avatar": "c2\/00000241.png",
                 "name": "未发育的圣诞老人",
                 "description": "送礼之后拿走灵魂的公平的圣诞老人的打工服饰.",
                 "live2d": "c299_00"
             },
             {
                 "code": "c299_01",
-                "avatar": "c2\/00000236.png",
+                "avatar": "c2\/00000242.png",
                 "name": "记忆的圣诞老人",
                 "description": "圣诞老人只穿红衣服的想法是一种偏见!",
                 "live2d": "c299_01"
             },
             {
                 "code": "c299_02",
-                "avatar": "c2\/00000237.png",
+                "avatar": "c2\/00000243.png",
                 "name": "妄想的圣诞老人",
                 "description": "黑衣服的圣诞老人不要送礼物送噩梦吧.",
                 "live2d": "c299_02"
@@ -9955,23 +10017,30 @@
                 "name": "禅师尼勒提",
                 "description": "将懒散的心给凝聚起来的话, 既使在尘世也不会动摇.",
                 "live2d": "c442_11"
+            },
+            {
+                "code": "c442_12",
+                "avatar": "c4\/00000132.png",
+                "name": "염라니르티",
+                "description": "흩어진 마음을 한데 모으니, 속세에서도 요동하지 않으니라.",
+                "live2d": "c442_12"
             }
         ]
     },
     {
         "name": "莱佛士",
-        "avatar": "c4\/00000133.png",
+        "avatar": "c4\/00000134.png",
         "skins": [
             {
                 "code": "c443_01",
-                "avatar": "c4\/00000132.png",
+                "avatar": "c4\/00000133.png",
                 "name": "怪盗莱佛士",
                 "description": "撕裂寂静夜空的吉他噪音，怪盗莱佛士降临在黑暗的城市.",
                 "live2d": "c443_01"
             },
             {
                 "code": "c443_02",
-                "avatar": "c4\/00000133.png",
+                "avatar": "c4\/00000134.png",
                 "name": "幽灵莱佛士",
                 "description": "不要被莱佛士的吉他演奏迷惑.偷走你的心，还有珍贵的宝物......",
                 "live2d": "c443_02"
@@ -9980,25 +10049,25 @@
     },
     {
         "name": "米特拉",
-        "avatar": "c4\/00000136.png",
+        "avatar": "c4\/00000137.png",
         "skins": [
             {
                 "code": "c444_01",
-                "avatar": "c4\/00000134.png",
+                "avatar": "c4\/00000135.png",
                 "name": "米特拉",
                 "description": "",
                 "live2d": "c444_01"
             },
             {
                 "code": "c444_10",
-                "avatar": "c4\/00000135.png",
+                "avatar": "c4\/00000136.png",
                 "name": "校服米特拉",
                 "description": "",
                 "live2d": "c444_10"
             },
             {
                 "code": "c444_11",
-                "avatar": "c4\/00000136.png",
+                "avatar": "c4\/00000137.png",
                 "name": "海边的米特拉",
                 "description": "穿着泳装享受休假的米特拉服装",
                 "live2d": "c444_11"
@@ -10007,60 +10076,60 @@
     },
     {
         "name": "卡拉特里",
-        "avatar": "c4\/00000139.png",
+        "avatar": "c4\/00000140.png",
         "skins": [
             {
                 "code": "c445_01",
-                "avatar": "c4\/00000137.png",
+                "avatar": "c4\/00000138.png",
                 "name": "黑夜卡拉特里",
                 "description": "为了守护女神卡拉特里从黑暗中拔起的刀.",
                 "live2d": "c445_01"
             },
             {
                 "code": "c445_02",
-                "avatar": "c4\/00000138.png",
+                "avatar": "c4\/00000139.png",
                 "name": "曙光卡拉特里",
                 "description": "卡拉特里的刀为女神指明了前进的方向.",
                 "live2d": "c445_02"
             },
             {
                 "code": "c445_10",
-                "avatar": "c4\/00000139.png",
+                "avatar": "c4\/00000140.png",
                 "name": "职场人卡拉特里",
                 "description": "不断增加的同伴.\\家长卡拉特里的叹息也越来越大.",
                 "live2d": "c445_10"
             },
             {
                 "code": "c445_11",
-                "avatar": "c4\/00000140.png",
+                "avatar": "c4\/00000141.png",
                 "name": "便服卡拉特里",
                 "description": "在圣米迦勒学院任教的中文老师.\\虽然有些刻薄，却意外得很受欢迎.",
                 "live2d": "c445_11"
             },
             {
                 "code": "c445_12",
-                "avatar": "c4\/00000141.png",
+                "avatar": "c4\/00000142.png",
                 "name": "极光卡拉特里",
                 "description": "因服用强制唤醒体内力量的药物\\而得到升级的卡拉特里. 现在谁也不怕.",
                 "live2d": "c445_12"
             },
             {
                 "code": "c445_87",
-                "avatar": "c4\/00000142.png",
+                "avatar": "c4\/00000143.png",
                 "name": "极光卡拉特里",
                 "description": "因服用强制唤醒体内力量的药物\\而得到升级的卡拉特里. 现在谁也不怕.",
                 "live2d": "c445_87"
             },
             {
                 "code": "c445_88",
-                "avatar": "c4\/00000143.png",
+                "avatar": "c4\/00000144.png",
                 "name": "曙光卡拉特里",
                 "description": "我是女神的影子.\\反射着女神之光的死星.",
                 "live2d": "c445_88"
             },
             {
                 "code": "c445_89",
-                "avatar": "c4\/00000144.png",
+                "avatar": "c4\/00000145.png",
                 "name": "黑夜卡拉特里",
                 "description": "女神, 请取消你的处所吧.\\我是你的脚背.",
                 "live2d": "c445_89"
@@ -10069,25 +10138,25 @@
     },
     {
         "name": "阿尔戈斯",
-        "avatar": "c4\/00000147.png",
+        "avatar": "c4\/00000148.png",
         "skins": [
             {
                 "code": "c446_01",
-                "avatar": "c4\/00000145.png",
+                "avatar": "c4\/00000146.png",
                 "name": "猛烈的阿尔戈斯",
                 "description": "守护秘密之岛守卫者阿尔戈斯之剑.",
                 "live2d": "c446_01"
             },
             {
                 "code": "c446_02",
-                "avatar": "c4\/00000146.png",
+                "avatar": "c4\/00000147.png",
                 "name": "狂犬阿尔戈斯",
                 "description": "守护秘密岛屿的看门狗阿尔戈斯之牙散发着光芒.",
                 "live2d": "c446_02"
             },
             {
                 "code": "c446_88",
-                "avatar": "c4\/00000147.png",
+                "avatar": "c4\/00000148.png",
                 "name": "狂犬阿尔戈斯",
                 "description": "踏入秘密之岛的不速之客们.\\要小心狂犬的獠牙.",
                 "live2d": "c446_88"
@@ -10096,39 +10165,39 @@
     },
     {
         "name": "米利安",
-        "avatar": "c4\/00000150.png",
+        "avatar": "c4\/00000151.png",
         "skins": [
             {
                 "code": "c447_01",
-                "avatar": "c4\/00000148.png",
+                "avatar": "c4\/00000149.png",
                 "name": "驱魔师米利安",
                 "description": "发誓《要实现天意》而穿的修女服.",
                 "live2d": "c447_01"
             },
             {
                 "code": "c447_02",
-                "avatar": "c4\/00000149.png",
+                "avatar": "c4\/00000150.png",
                 "name": "谗言的米利安",
                 "description": "虽然穿了修女服但不见得就会亲切.",
                 "live2d": "c447_02"
             },
             {
                 "code": "c447_10",
-                "avatar": "c4\/00000150.png",
+                "avatar": "c4\/00000151.png",
                 "name": "惩罚的米利安",
                 "description": "用天罚的鞭子使堕落的灵魂平安.",
                 "live2d": "c447_10"
             },
             {
                 "code": "c447_11",
-                "avatar": "c4\/00000151.png",
+                "avatar": "c4\/00000152.png",
                 "name": "保健教师米利安",
                 "description": "从阿什兰开始当保健教师的米利安.据说很受学生欢迎.",
                 "live2d": "c447_11"
             },
             {
                 "code": "c447_89",
-                "avatar": "c4\/00000152.png",
+                "avatar": "c4\/00000153.png",
                 "name": "惩罚的米利安",
                 "description": "该死的人啊.谦逊着等待审判.",
                 "live2d": "c447_89"
@@ -10137,39 +10206,39 @@
     },
     {
         "name": "米尔卡拉",
-        "avatar": "c4\/00000155.png",
+        "avatar": "c4\/00000156.png",
         "skins": [
             {
                 "code": "c448_00",
-                "avatar": "c4\/00000153.png",
+                "avatar": "c4\/00000154.png",
                 "name": "未发育的米尔卡拉",
                 "description": "很久才外出的米尔卡拉的时尚便装.",
                 "live2d": "c448_00"
             },
             {
                 "code": "c448_01",
-                "avatar": "c4\/00000154.png",
+                "avatar": "c4\/00000155.png",
                 "name": "狡猾的米尔卡拉",
                 "description": "为诱惑你而准备的米尔卡拉吊带裙.",
                 "live2d": "c448_01"
             },
             {
                 "code": "c448_02",
-                "avatar": "c4\/00000155.png",
+                "avatar": "c4\/00000156.png",
                 "name": "迷人的米尔卡拉",
                 "description": "刺激你欲望的米尔卡拉的诱惑姿态.",
                 "live2d": "c448_02"
             },
             {
                 "code": "c448_10",
-                "avatar": "c4\/00000156.png",
+                "avatar": "c4\/00000157.png",
                 "name": "蜜月米尔卡拉",
                 "description": "隐秘地谈情说爱的米尔卡拉的致命诱惑.",
                 "live2d": "c448_10"
             },
             {
                 "code": "c448_88",
-                "avatar": "c4\/00000157.png",
+                "avatar": "c4\/00000158.png",
                 "name": "迷人的米尔卡拉",
                 "description": "哼~ 你身上散发出的香味.\\可以给我尝口你的血么?",
                 "live2d": "c448_88"
@@ -10178,18 +10247,18 @@
     },
     {
         "name": "罗拉",
-        "avatar": "c4\/00000159.png",
+        "avatar": "c4\/00000160.png",
         "skins": [
             {
                 "code": "c449_01",
-                "avatar": "c4\/00000158.png",
+                "avatar": "c4\/00000159.png",
                 "name": "执着的罗拉",
                 "description": "既使穿上许久也很舒服的罗拉特制服装.",
                 "live2d": "c449_01"
             },
             {
                 "code": "c449_02",
-                "avatar": "c4\/00000159.png",
+                "avatar": "c4\/00000160.png",
                 "name": "追击者罗拉",
                 "description": "便于身体活动的罗拉特制服装.",
                 "live2d": "c449_02"
@@ -10198,18 +10267,18 @@
     },
     {
         "name": "卢萨卡",
-        "avatar": "c4\/00000161.png",
+        "avatar": "c4\/00000162.png",
         "skins": [
             {
                 "code": "c450_01",
-                "avatar": "c4\/00000160.png",
+                "avatar": "c4\/00000161.png",
                 "name": "悲剧的卢萨卡",
                 "description": "为了装成朱丽叶的勇气\\穿上了她的衣服.",
                 "live2d": "c450_01"
             },
             {
                 "code": "c450_02",
-                "avatar": "c4\/00000161.png",
+                "avatar": "c4\/00000162.png",
                 "name": "女主角卢萨卡",
                 "description": "为了完成这场悲剧\\她穿上了朱丽叶的衣服.",
                 "live2d": "c450_02"
@@ -10218,25 +10287,25 @@
     },
     {
         "name": "绫音",
-        "avatar": "c4\/00000164.png",
+        "avatar": "c4\/00000165.png",
         "skins": [
             {
                 "code": "c451_01",
-                "avatar": "c4\/00000162.png",
+                "avatar": "c4\/00000163.png",
                 "name": "蝴蝶青瓷绫音",
                 "description": "如夜空的蝴蝶般绫音悄悄地飞了起来.",
                 "live2d": "c451_01"
             },
             {
                 "code": "c451_02",
-                "avatar": "c4\/00000163.png",
+                "avatar": "c4\/00000164.png",
                 "name": "桃园影舞绫音",
                 "description": "将迎风飘洒的樱花给形象化了的绫音的战斗服装.",
                 "live2d": "c451_02"
             },
             {
                 "code": "c451_10",
-                "avatar": "c4\/00000164.png",
+                "avatar": "c4\/00000165.png",
                 "name": "开拓绫音",
                 "description": "来到盛夏修养地的忍者.沙滩排球也是任务的一环?",
                 "live2d": "c451_10"
@@ -10245,25 +10314,25 @@
     },
     {
         "name": "雷芳",
-        "avatar": "c4\/00000167.png",
+        "avatar": "c4\/00000168.png",
         "skins": [
             {
                 "code": "c452_01",
-                "avatar": "c4\/00000165.png",
+                "avatar": "c4\/00000166.png",
                 "name": "凤凰飞翔雷芳",
                 "description": "这是将飞天凤凰给形象化的雷芳的战斗服.",
                 "live2d": "c452_01"
             },
             {
                 "code": "c452_02",
-                "avatar": "c4\/00000166.png",
+                "avatar": "c4\/00000167.png",
                 "name": "幻灯朱雀雷芳",
                 "description": "印有朱雀的羽毛的雷芳战斗服.",
                 "live2d": "c452_02"
             },
             {
                 "code": "c452_10",
-                "avatar": "c4\/00000167.png",
+                "avatar": "c4\/00000168.png",
                 "name": "五色绚烂雷芳",
                 "description": "如同热带阳光般耀眼的雷芳泳装.",
                 "live2d": "c452_10"
@@ -10272,18 +10341,18 @@
     },
     {
         "name": "墨丘利",
-        "avatar": "c4\/00000169.png",
+        "avatar": "c4\/00000170.png",
         "skins": [
             {
                 "code": "c453_01",
-                "avatar": "c4\/00000168.png",
+                "avatar": "c4\/00000169.png",
                 "name": "温暖的墨丘利",
                 "description": "既使在炎热的天气中也能感受清爽的阿莫斯岛的手工泳装.",
                 "live2d": "c453_01"
             },
             {
                 "code": "c453_02",
-                "avatar": "c4\/00000169.png",
+                "avatar": "c4\/00000170.png",
                 "name": "拥抱的墨丘利",
                 "description": "体现大海之美的墨丘利的遮阳伞.",
                 "live2d": "c453_02"
@@ -10292,32 +10361,32 @@
     },
     {
         "name": "尤诺",
-        "avatar": "c4\/00000172.png",
+        "avatar": "c4\/00000173.png",
         "skins": [
             {
                 "code": "c454_01",
-                "avatar": "c4\/00000170.png",
+                "avatar": "c4\/00000171.png",
                 "name": "洛德尤诺",
                 "description": "只有恶魔尤诺才能消化的\\热带款式.",
                 "live2d": "c454_01"
             },
             {
                 "code": "c454_02",
-                "avatar": "c4\/00000171.png",
+                "avatar": "c4\/00000172.png",
                 "name": "哀求的尤诺",
                 "description": "只在阿莫斯岛出售的\\限量热带款式.",
                 "live2d": "c454_02"
             },
             {
                 "code": "c454_88",
-                "avatar": "c4\/00000172.png",
+                "avatar": "c4\/00000173.png",
                 "name": "哀求的尤诺",
                 "description": "如果你老实求饶，我会让你死的舒坦点.",
                 "live2d": "c454_88"
             },
             {
                 "code": "c454_89",
-                "avatar": "c4\/00000173.png",
+                "avatar": "c4\/00000174.png",
                 "name": "洛德尤诺",
                 "description": "如果你老实求饶，我会让你死的舒坦点.",
                 "live2d": "c454_89"
@@ -10326,53 +10395,53 @@
     },
     {
         "name": "蒂瓦兹",
-        "avatar": "c4\/00000176.png",
+        "avatar": "c4\/00000177.png",
         "skins": [
             {
                 "code": "c455_01",
-                "avatar": "c4\/00000174.png",
+                "avatar": "c4\/00000175.png",
                 "name": "女士蒂瓦兹",
                 "description": "尤诺为蒂瓦兹订制的特别服装.",
                 "live2d": "c455_01"
             },
             {
                 "code": "c455_02",
-                "avatar": "c4\/00000175.png",
+                "avatar": "c4\/00000176.png",
                 "name": "热恋蒂瓦兹",
                 "description": "适合阿莫斯岛炎热天气的订制时装.",
                 "live2d": "c455_02"
             },
             {
                 "code": "c455_10",
-                "avatar": "c4\/00000176.png",
+                "avatar": "c4\/00000177.png",
                 "name": "奢华蒂瓦兹",
                 "description": "专门为你准备的仲夏之夜活动.\\有没有被她迷住?",
                 "live2d": "c455_10"
             },
             {
                 "code": "c455_11",
-                "avatar": "c4\/00000177.png",
+                "avatar": "c4\/00000178.png",
                 "name": "女王蒂瓦兹",
                 "description": "尤诺与夫妇吵架时穿的订制服装.",
                 "live2d": "c455_11"
             },
             {
                 "code": "c455_12",
-                "avatar": "c4\/00000178.png",
+                "avatar": "c4\/00000179.png",
                 "name": "佳爱蒂瓦兹",
                 "description": "专为与尤诺的结婚典礼\\准备的蒂瓦兹的可爱婚纱.",
                 "live2d": "c455_12"
             },
             {
                 "code": "c455_86",
-                "avatar": "c4\/00000179.png",
+                "avatar": "c4\/00000180.png",
                 "name": "佳爱蒂瓦兹",
                 "description": "专为与尤诺的结婚典礼\\准备的蒂瓦兹的可爱婚纱.",
                 "live2d": "c455_86"
             },
             {
                 "code": "c455_87",
-                "avatar": "c4\/00000180.png",
+                "avatar": "c4\/00000181.png",
                 "name": "奢华蒂瓦兹",
                 "description": "专门为你准备的仲夏之夜活动.\\有没有被她迷住?",
                 "live2d": "c455_87"
@@ -10381,18 +10450,18 @@
     },
     {
         "name": "克洛托",
-        "avatar": "c4\/00000182.png",
+        "avatar": "c4\/00000183.png",
         "skins": [
             {
                 "code": "c456_01",
-                "avatar": "c4\/00000181.png",
+                "avatar": "c4\/00000182.png",
                 "name": "吉祥物克洛托",
                 "description": "作为荷官的吉祥物深受喜爱的克洛托的兔女郎套装.",
                 "live2d": "c456_01"
             },
             {
                 "code": "c456_02",
-                "avatar": "c4\/00000182.png",
+                "avatar": "c4\/00000183.png",
                 "name": "命运克洛托",
                 "description": "只要客人呼叫不管在哪都会跑去的克洛托的招待服.",
                 "live2d": "c456_02"
@@ -10401,18 +10470,18 @@
     },
     {
         "name": "奥德修斯",
-        "avatar": "c4\/00000184.png",
+        "avatar": "c4\/00000185.png",
         "skins": [
             {
                 "code": "c457_01",
-                "avatar": "c4\/00000183.png",
+                "avatar": "c4\/00000184.png",
                 "name": "旁观者奥德修斯",
                 "description": "即使再繁重的工作也不会有任何不适，以舒适著称的奥德修斯燕尾服",
                 "live2d": "c457_01"
             },
             {
                 "code": "c457_02",
-                "avatar": "c4\/00000184.png",
+                "avatar": "c4\/00000185.png",
                 "name": "重用的奥德修斯",
                 "description": "让人感受到执事品味的奥德修斯的燕尾服",
                 "live2d": "c457_02"
@@ -10421,25 +10490,25 @@
     },
     {
         "name": "杰斐罗斯",
-        "avatar": "c4\/00000187.png",
+        "avatar": "c4\/00000188.png",
         "skins": [
             {
                 "code": "c458_01",
-                "avatar": "c4\/00000185.png",
+                "avatar": "c4\/00000186.png",
                 "name": "疾走的杰斐罗斯",
                 "description": "在咸咸的海风下依旧坚定不移的杰斐罗斯的专用套装.",
                 "live2d": "c458_01"
             },
             {
                 "code": "c458_02",
-                "avatar": "c4\/00000186.png",
+                "avatar": "c4\/00000187.png",
                 "name": "疾风杰斐罗斯",
                 "description": "蒂瓦兹为杰斐罗斯特制的专用机器.",
                 "live2d": "c458_02"
             },
             {
                 "code": "c458_10",
-                "avatar": "c4\/00000187.png",
+                "avatar": "c4\/00000188.png",
                 "name": "传承人杰斐罗斯",
                 "description": "我今天也出来战斗!\\挑战自己的极限的杰斐罗斯的专用机器.",
                 "live2d": "c458_10"
@@ -10448,18 +10517,18 @@
     },
     {
         "name": "卡卡",
-        "avatar": "c4\/00000189.png",
+        "avatar": "c4\/00000190.png",
         "skins": [
             {
                 "code": "c459_01",
-                "avatar": "c4\/00000188.png",
+                "avatar": "c4\/00000189.png",
                 "name": "追逐的卡卡",
                 "description": "就算逃到魔界的尽头\\也逃不出卡卡的子弹.",
                 "live2d": "c459_01"
             },
             {
                 "code": "c459_02",
-                "avatar": "c4\/00000189.png",
+                "avatar": "c4\/00000190.png",
                 "name": "阴影卡卡",
                 "description": "在夜幕降临的城市若听到风声，得小心了.\\那可能是卡卡子弹呼啸过去的声音.",
                 "live2d": "c459_02"
@@ -10468,32 +10537,32 @@
     },
     {
         "name": "卡库斯",
-        "avatar": "c4\/00000192.png",
+        "avatar": "c4\/00000193.png",
         "skins": [
             {
                 "code": "c460_01",
-                "avatar": "c4\/00000190.png",
+                "avatar": "c4\/00000191.png",
                 "name": "掠夺者卡库斯",
                 "description": "这是斩下贪婪恶魔地狱魔女卡库斯的镰刀.",
                 "live2d": "c460_01"
             },
             {
                 "code": "c460_02",
-                "avatar": "c4\/00000191.png",
+                "avatar": "c4\/00000192.png",
                 "name": "自由的卡库斯",
                 "description": "缠着魔女卡库斯的地狱之火会灼烧贪婪的恶魔.",
                 "live2d": "c460_02"
             },
             {
                 "code": "c460_10",
-                "avatar": "c4\/00000192.png",
+                "avatar": "c4\/00000193.png",
                 "name": "博思考卡库斯",
                 "description": "这是姐姐为迎接新年而准备的服装.",
                 "live2d": "c460_10"
             },
             {
                 "code": "c460_88",
-                "avatar": "c4\/00000193.png",
+                "avatar": "c4\/00000194.png",
                 "name": "自由的卡库斯",
                 "description": "城市里蠕动着不吉的嚎叫声.\\魔女的镰刀绽放出火花.",
                 "live2d": "c460_88"
@@ -10502,25 +10571,25 @@
     },
     {
         "name": "奥罗拉",
-        "avatar": "c4\/00000196.png",
+        "avatar": "c4\/00000197.png",
         "skins": [
             {
                 "code": "c461_01",
-                "avatar": "c4\/00000194.png",
+                "avatar": "c4\/00000195.png",
                 "name": "记忆的奥罗拉",
                 "description": "这是存在于米特拉记忆中某个地方的奥罗拉的形象.",
                 "live2d": "c461_01"
             },
             {
                 "code": "c461_02",
-                "avatar": "c4\/00000195.png",
+                "avatar": "c4\/00000196.png",
                 "name": "告白的奥罗拉",
                 "description": "在记忆的另一端听到了奥罗拉振翅的声音.",
                 "live2d": "c461_02"
             },
             {
                 "code": "c461_10",
-                "avatar": "c4\/00000196.png",
+                "avatar": "c4\/00000197.png",
                 "name": "伴侣欧莱雅",
                 "description": "圣米迦勒学院的新校服.",
                 "live2d": "c461_10"
@@ -10529,18 +10598,18 @@
     },
     {
         "name": "德蕾莎",
-        "avatar": "c4\/00000198.png",
+        "avatar": "c4\/00000199.png",
         "skins": [
             {
                 "code": "c462_01",
-                "avatar": "c4\/00000197.png",
+                "avatar": "c4\/00000198.png",
                 "name": "盟誓的德蕾莎",
                 "description": "用坚强意志铸就的德蕾莎之剑.\\为了守护她可以刺穿一切.",
                 "live2d": "c462_01"
             },
             {
                 "code": "c462_02",
-                "avatar": "c4\/00000198.png",
+                "avatar": "c4\/00000199.png",
                 "name": "玫瑰念珠德蕾莎",
                 "description": "德蕾莎的剑在发光.\\为了引导迷路的她.",
                 "live2d": "c462_02"
@@ -10549,25 +10618,25 @@
     },
     {
         "name": "伊芙",
-        "avatar": "c4\/00000201.png",
+        "avatar": "c4\/00000202.png",
         "skins": [
             {
                 "code": "c463_01",
-                "avatar": "c4\/00000199.png",
+                "avatar": "c4\/00000200.png",
                 "name": "失乐园伊芙",
                 "description": "优雅但又致命的恶魔伊芙的殷红之剑.",
                 "live2d": "c463_01"
             },
             {
                 "code": "c463_02",
-                "avatar": "c4\/00000200.png",
+                "avatar": "c4\/00000201.png",
                 "name": "惆怅伊芙",
                 "description": "在天空尽头伊芙的蓝剑发出光芒.",
                 "live2d": "c463_02"
             },
             {
                 "code": "c463_10",
-                "avatar": "c4\/00000201.png",
+                "avatar": "c4\/00000202.png",
                 "name": "中秋佳人伊芙",
                 "description": "明亮的大圆月映照大地的夜晚.\\专为今天而准备的伊芙衣服十分美丽.",
                 "live2d": "c463_10"
@@ -10576,32 +10645,32 @@
     },
     {
         "name": "阿罗汉",
-        "avatar": "c4\/00000204.png",
+        "avatar": "c4\/00000205.png",
         "skins": [
             {
                 "code": "c464_01",
-                "avatar": "c4\/00000202.png",
+                "avatar": "c4\/00000203.png",
                 "name": "庄严阿罗汉",
                 "description": "分辨罪恶,\\净化脏东西的阿罗汉之枪.",
                 "live2d": "c464_01"
             },
             {
                 "code": "c464_02",
-                "avatar": "c4\/00000203.png",
+                "avatar": "c4\/00000204.png",
                 "name": "不生不灭阿罗汉",
                 "description": "击退邪恶之物,\\惩处魔界的阿罗汉之枪.",
                 "live2d": "c464_02"
             },
             {
                 "code": "c464_10",
-                "avatar": "c4\/00000204.png",
+                "avatar": "c4\/00000205.png",
                 "name": "水月心阿罗汉",
                 "description": "在心灵的世界中遇到了阿罗汉.\\清澈如水的光环笼罩着她.",
                 "live2d": "c464_10"
             },
             {
                 "code": "c464_11",
-                "avatar": "c4\/00000205.png",
+                "avatar": "c4\/00000206.png",
                 "name": "天真浪漫阿罗汉",
                 "description": "梦想着新开始的阿罗汉的便服.\\从中可以看出卡拉特里无微不至的照顾.",
                 "live2d": "c464_11"
@@ -10610,25 +10679,25 @@
     },
     {
         "name": "善雅",
-        "avatar": "c4\/00000208.png",
+        "avatar": "c4\/00000209.png",
         "skins": [
             {
                 "code": "c465_01",
-                "avatar": "c4\/00000206.png",
+                "avatar": "c4\/00000207.png",
                 "name": "贞节的善雅",
                 "description": "为了能摆脱任何诱惑的而特制的服装",
                 "live2d": "c465_01"
             },
             {
                 "code": "c465_02",
-                "avatar": "c4\/00000207.png",
+                "avatar": "c4\/00000208.png",
                 "name": "耿直的善雅",
                 "description": "对主人礼遇而特制的服装.",
                 "live2d": "c465_02"
             },
             {
                 "code": "c465_88",
-                "avatar": "c4\/00000208.png",
+                "avatar": "c4\/00000209.png",
                 "name": "耿直的善雅",
                 "description": "善雅为了只侍奉一位主人做出的选择.",
                 "live2d": "c465_88"
@@ -10637,18 +10706,18 @@
     },
     {
         "name": "拉比",
-        "avatar": "c4\/00000210.png",
+        "avatar": "c4\/00000211.png",
         "skins": [
             {
                 "code": "c466_01",
-                "avatar": "c4\/00000209.png",
+                "avatar": "c4\/00000210.png",
                 "name": "自由的拉比",
                 "description": "为展现充满活力的拉比而特制的活动性较好的面料服装",
                 "live2d": "c466_01"
             },
             {
                 "code": "c466_02",
-                "avatar": "c4\/00000210.png",
+                "avatar": "c4\/00000211.png",
                 "name": "心炼拉比",
                 "description": "为了不耽误拉比战斗而特制的服装.",
                 "live2d": "c466_02"
@@ -10657,18 +10726,18 @@
     },
     {
         "name": "千叶",
-        "avatar": "c4\/00000212.png",
+        "avatar": "c4\/00000213.png",
         "skins": [
             {
                 "code": "c467_01",
-                "avatar": "c4\/00000211.png",
+                "avatar": "c4\/00000212.png",
                 "name": "狠毒千叶",
                 "description": "沉睡在暴风雪里的魔女千叶睁开了眼.",
                 "live2d": "c467_01"
             },
             {
                 "code": "c467_02",
-                "avatar": "c4\/00000212.png",
+                "avatar": "c4\/00000213.png",
                 "name": "燃烧千叶",
                 "description": "雪山的寒气与地狱的热气在\\恶魔千叶的指尖舞蹈.",
                 "live2d": "c467_02"
@@ -10677,25 +10746,25 @@
     },
     {
         "name": "柳新星",
-        "avatar": "c4\/00000215.png",
+        "avatar": "c4\/00000216.png",
         "skins": [
             {
                 "code": "c468_00",
-                "avatar": "c4\/00000213.png",
+                "avatar": "c4\/00000214.png",
                 "name": "柳新星",
                 "description": "这是签订广告代言合同的品牌的新款礼服.",
                 "live2d": "c468_00"
             },
             {
                 "code": "c468_01",
-                "avatar": "c4\/00000214.png",
+                "avatar": "c4\/00000215.png",
                 "name": "窃窃私语梅迪思",
                 "description": "紧闭嘴唇的梅迪思嘴唇.她藏起的真心是什么?",
                 "live2d": "c468_01"
             },
             {
                 "code": "c468_02",
-                "avatar": "c4\/00000215.png",
+                "avatar": "c4\/00000216.png",
                 "name": "真实的梅迪斯",
                 "description": "像洋娃娃一般的梅迪斯露出了温暖的微笑.",
                 "live2d": "c468_02"
@@ -10704,39 +10773,39 @@
     },
     {
         "name": "亚里亚",
-        "avatar": "c4\/00000218.png",
+        "avatar": "c4\/00000219.png",
         "skins": [
             {
                 "code": "c469_01",
-                "avatar": "c4\/00000216.png",
+                "avatar": "c4\/00000217.png",
                 "name": "辉煌亚里亚",
                 "description": "用大家的梦想与热情制成的Fabulous Plus舞台装",
                 "live2d": "c469_01"
             },
             {
                 "code": "c469_02",
-                "avatar": "c4\/00000217.png",
+                "avatar": "c4\/00000218.png",
                 "name": "米斯特拉亚里亚",
                 "description": "为了展示最好的舞台而制成的Fabulous Plus舞台装",
                 "live2d": "c469_02"
             },
             {
                 "code": "c469_10",
-                "avatar": "c4\/00000218.png",
+                "avatar": "c4\/00000219.png",
                 "name": "Tip Top亚里亚",
                 "description": "托大家的福终于可以展开\\梦想的翅膀了.",
                 "live2d": "c469_10"
             },
             {
                 "code": "c469_11",
-                "avatar": "c4\/00000219.png",
+                "avatar": "c4\/00000220.png",
                 "name": "校服亚里亚",
                 "description": "入学阿什兰的亚里亚可爱的校服",
                 "live2d": "c469_11"
             },
             {
                 "code": "c469_87",
-                "avatar": "c4\/00000220.png",
+                "avatar": "c4\/00000221.png",
                 "name": "Tip Top亚里亚",
                 "description": "托大家的福终于可以展开\\梦想的翅膀了.",
                 "live2d": "c469_87"
@@ -10745,18 +10814,18 @@
     },
     {
         "name": "尼普顿",
-        "avatar": "c4\/00000222.png",
+        "avatar": "c4\/00000223.png",
         "skins": [
             {
                 "code": "c470_01",
-                "avatar": "c4\/00000221.png",
+                "avatar": "c4\/00000222.png",
                 "name": "闪亮的尼普顿",
                 "description": "专为年底演出制成的Fabulous Plus舞台装",
                 "live2d": "c470_01"
             },
             {
                 "code": "c470_02",
-                "avatar": "c4\/00000222.png",
+                "avatar": "c4\/00000223.png",
                 "name": "斯诺威尼普顿",
                 "description": "让Fabulous Plus的歌声广为传颂的希望之翼",
                 "live2d": "c470_02"
@@ -10765,25 +10834,25 @@
     },
     {
         "name": "玛斯",
-        "avatar": "c4\/00000225.png",
+        "avatar": "c4\/00000226.png",
         "skins": [
             {
                 "code": "c471_01",
-                "avatar": "c4\/00000223.png",
+                "avatar": "c4\/00000224.png",
                 "name": "闪耀的玛斯",
                 "description": "闪亮的星光极其吸引视线的玛斯Fabulous Plus时装",
                 "live2d": "c471_01"
             },
             {
                 "code": "c471_02",
-                "avatar": "c4\/00000224.png",
+                "avatar": "c4\/00000225.png",
                 "name": "雪球玛斯",
                 "description": "玛斯煽动一次翅膀, 便响起粉丝们的呐喊声.",
                 "live2d": "c471_02"
             },
             {
                 "code": "c471_88",
-                "avatar": "c4\/00000225.png",
+                "avatar": "c4\/00000226.png",
                 "name": "雪球玛斯",
                 "description": "为了新的舞台, 与大家一起展开挑战之翼吧.",
                 "live2d": "c471_88"
@@ -10792,18 +10861,18 @@
     },
     {
         "name": "维纳斯",
-        "avatar": "c4\/00000227.png",
+        "avatar": "c4\/00000228.png",
         "skins": [
             {
                 "code": "c472_01",
-                "avatar": "c4\/00000226.png",
+                "avatar": "c4\/00000227.png",
                 "name": "耀眼的维纳斯",
                 "description": "彰显维纳斯的快乐的Fabulous Plus舞台装",
                 "live2d": "c472_01"
             },
             {
                 "code": "c472_02",
-                "avatar": "c4\/00000227.png",
+                "avatar": "c4\/00000228.png",
                 "name": "温特勒维纳斯",
                 "description": "带有一双自由翅膀的维纳斯舞台装",
                 "live2d": "c472_02"
@@ -10812,18 +10881,18 @@
     },
     {
         "name": "提塔尼亚",
-        "avatar": "c4\/00000229.png",
+        "avatar": "c4\/00000230.png",
         "skins": [
             {
                 "code": "c473_01",
-                "avatar": "c4\/00000228.png",
+                "avatar": "c4\/00000229.png",
                 "name": "逆战提塔尼亚",
                 "description": "隔开黑暗的光芒之枪.现在是提塔尼亚的时间.",
                 "live2d": "c473_01"
             },
             {
                 "code": "c473_02",
-                "avatar": "c4\/00000229.png",
+                "avatar": "c4\/00000230.png",
                 "name": "气势冲天提塔尼亚",
                 "description": "光回来了!击退夜晚呼唤晨曦的提塔尼亚之盾.",
                 "live2d": "c473_02"
@@ -10832,39 +10901,39 @@
     },
     {
         "name": "赫菲斯托斯",
-        "avatar": "c4\/00000232.png",
+        "avatar": "c4\/00000233.png",
         "skins": [
             {
                 "code": "c474_01",
-                "avatar": "c4\/00000230.png",
+                "avatar": "c4\/00000231.png",
                 "name": "铁笼赫菲斯托斯",
                 "description": "耐力.这就是赫菲斯托斯之锤的另一个名字.",
                 "live2d": "c474_01"
             },
             {
                 "code": "c474_02",
-                "avatar": "c4\/00000231.png",
+                "avatar": "c4\/00000232.png",
                 "name": "狂炎赫菲斯托斯",
                 "description": "真正的铁匠在黑暗中统治着火焰.",
                 "live2d": "c474_02"
             },
             {
                 "code": "c474_10",
-                "avatar": "c4\/00000232.png",
+                "avatar": "c4\/00000233.png",
                 "name": "教师赫菲斯托斯",
                 "description": "圣米迦勒学院的化学老师.并没有什么教书才能.",
                 "live2d": "c474_10"
             },
             {
                 "code": "c474_88",
-                "avatar": "c4\/00000233.png",
+                "avatar": "c4\/00000234.png",
                 "name": "狂炎赫菲斯托斯",
                 "description": "没有比懦弱的灵魂挣扎更没有意义的事情了.",
                 "live2d": "c474_88"
             },
             {
                 "code": "c474_89",
-                "avatar": "c4\/00000234.png",
+                "avatar": "c4\/00000235.png",
                 "name": "铁笼赫菲斯托斯",
                 "description": "软弱而无用的东西.化为灰烬消失吧.",
                 "live2d": "c474_89"
@@ -10873,18 +10942,18 @@
     },
     {
         "name": "塞顿",
-        "avatar": "c4\/00000236.png",
+        "avatar": "c4\/00000237.png",
         "skins": [
             {
                 "code": "c475_01",
-                "avatar": "c4\/00000235.png",
+                "avatar": "c4\/00000236.png",
                 "name": "黎明塞顿",
                 "description": "承载着塞顿的希望的Fabulous Plus舞台装",
                 "live2d": "c475_01"
             },
             {
                 "code": "c475_02",
-                "avatar": "c4\/00000236.png",
+                "avatar": "c4\/00000237.png",
                 "name": "普洛斯提塞顿",
                 "description": "希望充满希望的歌声乘着翅膀飞跃而制成的队长时装",
                 "live2d": "c475_02"
@@ -10893,32 +10962,32 @@
     },
     {
         "name": "内普蒂斯",
-        "avatar": "c4\/00000239.png",
+        "avatar": "c4\/00000240.png",
         "skins": [
             {
                 "code": "c476_00",
-                "avatar": "c4\/00000237.png",
+                "avatar": "c4\/00000238.png",
                 "name": "未发育的内普蒂斯",
                 "description": "研究生八字自我管理的只吃三顿饭就够了.",
                 "live2d": "c476_00"
             },
             {
                 "code": "c476_01",
-                "avatar": "c4\/00000238.png",
+                "avatar": "c4\/00000239.png",
                 "name": "开朗的内普蒂斯",
                 "description": "虽然苦涩，但甜甜的巧克力般的心里\\浮现出了内普蒂斯温暖的微笑.",
                 "live2d": "c476_01"
             },
             {
                 "code": "c476_02",
-                "avatar": "c4\/00000239.png",
+                "avatar": "c4\/00000240.png",
                 "name": "平和的内普蒂斯",
                 "description": "像融化的巧克力般，将你冰冻的心灵给温暖的融化开.",
                 "live2d": "c476_02"
             },
             {
                 "code": "c476_88",
-                "avatar": "c4\/00000240.png",
+                "avatar": "c4\/00000241.png",
                 "name": "平和的内普蒂斯",
                 "description": "准备了满是香甜的巧克力!让我们一起快乐的享受吧.",
                 "live2d": "c476_88"
@@ -10927,32 +10996,32 @@
     },
     {
         "name": "张秀姬",
-        "avatar": "c4\/00000243.png",
+        "avatar": "c4\/00000244.png",
         "skins": [
             {
                 "code": "c479_00",
-                "avatar": "c4\/00000241.png",
+                "avatar": "c4\/00000242.png",
                 "name": "击剑选手张秀姬",
                 "description": "这是一件写有《用努力证明自己》 张秀姬的决心击剑套装.",
                 "live2d": "c479_00"
             },
             {
                 "code": "c479_01",
-                "avatar": "c4\/00000242.png",
+                "avatar": "c4\/00000243.png",
                 "name": "坚韧的莫萍",
                 "description": "这是只有荣耀的主人才能拥有的莫萍之剑.",
                 "live2d": "c479_01"
             },
             {
                 "code": "c479_02",
-                "avatar": "c4\/00000243.png",
+                "avatar": "c4\/00000244.png",
                 "name": "传说的莫萍",
                 "description": "莫萍独一无二的刀具.\\和它的主人一起成为永恒.",
                 "live2d": "c479_02"
             },
             {
                 "code": "c479_20",
-                "avatar": "c4\/00000244.png",
+                "avatar": "c4\/00000245.png",
                 "name": "大学生张秀姬",
                 "description": "张秀姬无论何时都不放松\\整日穿着运动服.",
                 "live2d": "c479_20"
@@ -10961,32 +11030,32 @@
     },
     {
         "name": "金爱情",
-        "avatar": "c4\/00000247.png",
+        "avatar": "c4\/00000248.png",
         "skins": [
             {
                 "code": "c480_00",
-                "avatar": "c4\/00000245.png",
+                "avatar": "c4\/00000246.png",
                 "name": "击剑选手金爱情",
                 "description": "虽然现在穿着击剑服的样子还不太自然,\\但希望有一天能碰到秀姬前辈所在的地方…",
                 "live2d": "c480_00"
             },
             {
                 "code": "c480_01",
-                "avatar": "c4\/00000246.png",
+                "avatar": "c4\/00000247.png",
                 "name": "爱情的布拉达曼特",
                 "description": "这是像风一样自由舞动的布拉达曼特之剑.",
                 "live2d": "c480_01"
             },
             {
                 "code": "c480_02",
-                "avatar": "c4\/00000247.png",
+                "avatar": "c4\/00000248.png",
                 "name": "自由的布拉达曼特",
                 "description": "用布拉达曼特之心磨砺的刀具.\\割舍掉一切束缚自己的痛苦.",
                 "live2d": "c480_02"
             },
             {
                 "code": "c480_20",
-                "avatar": "c4\/00000248.png",
+                "avatar": "c4\/00000249.png",
                 "name": "大学生金爱情",
                 "description": "今天也是阳光般可爱的金爱情.",
                 "live2d": "c480_20"
@@ -10995,32 +11064,32 @@
     },
     {
         "name": "车太贤",
-        "avatar": "c4\/00000251.png",
+        "avatar": "c4\/00000252.png",
         "skins": [
             {
                 "code": "c481_00",
-                "avatar": "c4\/00000249.png",
+                "avatar": "c4\/00000250.png",
                 "name": "车太贤",
                 "description": "太贤的画作越来越多他的梦想也就越来越接近.",
                 "live2d": "c481_00"
             },
             {
                 "code": "c481_01",
-                "avatar": "c4\/00000250.png",
+                "avatar": "c4\/00000251.png",
                 "name": "格雷内德怀亚特",
                 "description": "可以感受到重视火力怀亚特性向的\\榴弹发射器.",
                 "live2d": "c481_01"
             },
             {
                 "code": "c481_02",
-                "avatar": "c4\/00000251.png",
+                "avatar": "c4\/00000252.png",
                 "name": "枪手怀亚特",
                 "description": "怀亚特的榴弹发射器既使面对紧闭的铁门\\也可畅通无阻.",
                 "live2d": "c481_02"
             },
             {
                 "code": "c481_88",
-                "avatar": "c4\/00000252.png",
+                "avatar": "c4\/00000253.png",
                 "name": "枪手怀亚特",
                 "description": "生命本身就是战场!不要退缩, 诸君!",
                 "live2d": "c481_88"
@@ -11029,25 +11098,25 @@
     },
     {
         "name": "吴德勋",
-        "avatar": "c4\/00000255.png",
+        "avatar": "c4\/00000256.png",
         "skins": [
             {
                 "code": "c482_00",
-                "avatar": "c4\/00000253.png",
+                "avatar": "c4\/00000254.png",
                 "name": "吴德勋",
                 "description": "总是笑嘻嘻的脸庞不知到底在想什么\\令人不安.",
                 "live2d": "c482_00"
             },
             {
                 "code": "c482_01",
-                "avatar": "c4\/00000254.png",
+                "avatar": "c4\/00000255.png",
                 "name": "纯真的泰奥法诺",
                 "description": "泰奥法诺用如花般的神秘笑容迎接你.",
                 "live2d": "c482_01"
             },
             {
                 "code": "c482_02",
-                "avatar": "c4\/00000255.png",
+                "avatar": "c4\/00000256.png",
                 "name": "离谱的泰奥法诺",
                 "description": "泰奥法诺美丽微笑的背后隐藏着到底是什么样的真心?",
                 "live2d": "c482_02"
@@ -11056,25 +11125,25 @@
     },
     {
         "name": "李蕙兰",
-        "avatar": "c4\/00000258.png",
+        "avatar": "c4\/00000259.png",
         "skins": [
             {
                 "code": "c483_00",
-                "avatar": "c4\/00000256.png",
+                "avatar": "c4\/00000257.png",
                 "name": "李蕙兰",
                 "description": "只要下定决心谁都可以!\\Coser李蕙兰最喜欢的校园风.",
                 "live2d": "c483_00"
             },
             {
                 "code": "c483_01",
-                "avatar": "c4\/00000257.png",
+                "avatar": "c4\/00000258.png",
                 "name": "战场的阿尔特米西亚",
                 "description": "这是为速战速决打败敌人而制作的制服.",
                 "live2d": "c483_01"
             },
             {
                 "code": "c483_02",
-                "avatar": "c4\/00000258.png",
+                "avatar": "c4\/00000259.png",
                 "name": "胜利的阿尔特米西亚",
                 "description": "在加强的阿尔特米西亚的制服前\\就算子弹横飞也毫发无损.",
                 "live2d": "c483_02"
@@ -11083,11 +11152,11 @@
     },
     {
         "name": "尤达",
-        "avatar": "c4\/00000259.png",
+        "avatar": "c4\/00000260.png",
         "skins": [
             {
                 "code": "c484_01",
-                "avatar": "c4\/00000259.png",
+                "avatar": "c4\/00000260.png",
                 "name": "剧情用尤达",
                 "description": "",
                 "live2d": "c484_01"
@@ -11096,25 +11165,25 @@
     },
     {
         "name": "尤娜",
-        "avatar": "c4\/00000262.png",
+        "avatar": "c4\/00000263.png",
         "skins": [
             {
                 "code": "c485_01",
-                "avatar": "c4\/00000260.png",
+                "avatar": "c4\/00000261.png",
                 "name": "日影的尤娜",
                 "description": "希望之光疲惫消逝的瞬间,\\她的影子浮现在了眼前.",
                 "live2d": "c485_01"
             },
             {
                 "code": "c485_02",
-                "avatar": "c4\/00000261.png",
+                "avatar": "c4\/00000262.png",
                 "name": "半夜的尤娜",
                 "description": "尤娜隐藏的身影温暖地拥抱着\\她那落寞的心.",
                 "live2d": "c485_02"
             },
             {
                 "code": "c485_10",
-                "avatar": "c4\/00000262.png",
+                "avatar": "c4\/00000263.png",
                 "name": "金星的尤娜",
                 "description": "这是一位在陌生街道上遇到的神秘男子\\送的红色礼服.",
                 "live2d": "c485_10"
@@ -11123,46 +11192,46 @@
     },
     {
         "name": "库巴巴",
-        "avatar": "c4\/00000265.png",
+        "avatar": "c4\/00000266.png",
         "skins": [
             {
                 "code": "c486_01",
-                "avatar": "c4\/00000263.png",
+                "avatar": "c4\/00000264.png",
                 "name": "盖洛普库巴巴",
                 "description": "如狂风暴雨般库巴巴的爱马.",
                 "live2d": "c486_01"
             },
             {
                 "code": "c486_02",
-                "avatar": "c4\/00000264.png",
+                "avatar": "c4\/00000265.png",
                 "name": "风暴库巴巴",
                 "description": "让开!\\库巴巴的爱马在嚎啕大哭.",
                 "live2d": "c486_02"
             },
             {
                 "code": "c486_10",
-                "avatar": "c4\/00000265.png",
+                "avatar": "c4\/00000266.png",
                 "name": "高腰发绳库巴巴",
                 "description": "从巴贝尔的药中获取的全盛时期的力量.",
                 "live2d": "c486_10"
             },
             {
                 "code": "c486_87",
-                "avatar": "c4\/00000266.png",
+                "avatar": "c4\/00000267.png",
                 "name": "高腰发绳库巴巴",
                 "description": "你准备好承担挡在我面前\\的罪责了么?",
                 "live2d": "c486_87"
             },
             {
                 "code": "c486_88",
-                "avatar": "c4\/00000267.png",
+                "avatar": "c4\/00000268.png",
                 "name": "风暴库巴巴",
                 "description": "最激烈的帷幕即将拉开.\\只有活下来的人才能获得殊荣.",
                 "live2d": "c486_88"
             },
             {
                 "code": "c486_89",
-                "avatar": "c4\/00000268.png",
+                "avatar": "c4\/00000269.png",
                 "name": "盖洛普库巴巴",
                 "description": "希望得到王位的人,\\你走所有的路吧!",
                 "live2d": "c486_89"
@@ -11171,32 +11240,32 @@
     },
     {
         "name": "柳河渊",
-        "avatar": "c4\/00000271.png",
+        "avatar": "c4\/00000272.png",
         "skins": [
             {
                 "code": "c488_00",
-                "avatar": "c4\/00000269.png",
+                "avatar": "c4\/00000270.png",
                 "name": "柳河渊",
                 "description": "说到有男人味的道具那就是领带了.或许怀念过去\\的心是反作用吧?",
                 "live2d": "c488_00"
             },
             {
                 "code": "c488_01",
-                "avatar": "c4\/00000270.png",
+                "avatar": "c4\/00000271.png",
                 "name": "悠闲的德里亚德斯",
                 "description": "这是憧憬自然守护者精灵的心情所致.",
                 "live2d": "c488_01"
             },
             {
                 "code": "c488_02",
-                "avatar": "c4\/00000271.png",
+                "avatar": "c4\/00000272.png",
                 "name": "浪荡的德里亚德斯",
                 "description": "从像雷鬼那样到处乱窜的时候开始,我就知道会变成这样.",
                 "live2d": "c488_02"
             },
             {
                 "code": "c488_20",
-                "avatar": "c4\/00000272.png",
+                "avatar": "c4\/00000273.png",
                 "name": "COSPLAY柳河渊",
                 "description": "模仿偶然碰到她的衣服制作的服装.\\让人想起小时候的记忆.",
                 "live2d": "c488_20"
@@ -11205,53 +11274,53 @@
     },
     {
         "name": "洛基",
-        "avatar": "c4\/00000275.png",
+        "avatar": "c4\/00000276.png",
         "skins": [
             {
                 "code": "c489_01",
-                "avatar": "c4\/00000273.png",
+                "avatar": "c4\/00000274.png",
                 "name": "洛基",
                 "description": "就在愚蠢的人向神祈祷之时,\\与地狱朔风一起降临的恶魔.",
                 "live2d": "c489_01"
             },
             {
                 "code": "c489_02",
-                "avatar": "c4\/00000274.png",
+                "avatar": "c4\/00000275.png",
                 "name": "黑太子洛基",
                 "description": "当愚蠢的人向神祈祷时,\\恶魔便拿着镰刀降临了.",
                 "live2d": "c489_02"
             },
             {
                 "code": "c489_10",
-                "avatar": "c4\/00000275.png",
+                "avatar": "c4\/00000276.png",
                 "name": "深渊洛奇",
                 "description": "伴随着深渊里振翅的声音\\恶魔洛奇降临了.",
                 "live2d": "c489_10"
             },
             {
                 "code": "c489_11",
-                "avatar": "c4\/00000276.png",
+                "avatar": "c4\/00000277.png",
                 "name": "隐居者洛奇",
                 "description": "用锁链捆绑恶魔.但到时候\\解除捆绑又会再次在这片大地上活跃.",
                 "live2d": "c489_11"
             },
             {
                 "code": "c489_87",
-                "avatar": "c4\/00000277.png",
+                "avatar": "c4\/00000278.png",
                 "name": "深渊洛奇",
                 "description": "没有神灵的旷野, 眼盲恶鬼的内心.",
                 "live2d": "c489_87"
             },
             {
                 "code": "c489_88",
-                "avatar": "c4\/00000278.png",
+                "avatar": "c4\/00000279.png",
                 "name": "黑太子洛基",
                 "description": "听到了吗?引导你走向迷宫的恶魔.",
                 "live2d": "c489_88"
             },
             {
                 "code": "c489_89",
-                "avatar": "c4\/00000279.png",
+                "avatar": "c4\/00000280.png",
                 "name": "洛基",
                 "description": "跟我来.\\我会带你去非常富丽堂皇的地狱.",
                 "live2d": "c489_89"
@@ -11260,39 +11329,39 @@
     },
     {
         "name": "宋荷娜",
-        "avatar": "c4\/00000282.png",
+        "avatar": "c4\/00000283.png",
         "skins": [
             {
                 "code": "c490_00",
-                "avatar": "c4\/00000280.png",
+                "avatar": "c4\/00000281.png",
                 "name": "宋荷娜",
                 "description": "活动性好的休闲粉色裤子.\\宋荷娜最喜欢的服装.",
                 "live2d": "c490_00"
             },
             {
                 "code": "c490_01",
-                "avatar": "c4\/00000281.png",
+                "avatar": "c4\/00000282.png",
                 "name": "帮手红莲",
                 "description": "为强调威严而特制的黑色长袍.",
                 "live2d": "c490_01"
             },
             {
                 "code": "c490_02",
-                "avatar": "c4\/00000282.png",
+                "avatar": "c4\/00000283.png",
                 "name": "保持理性的红莲",
                 "description": "用最高级材料制作的椅子.\\据说只有最好的帮手才能坐下来.",
                 "live2d": "c490_02"
             },
             {
                 "code": "c490_10",
-                "avatar": "c4\/00000283.png",
+                "avatar": "c4\/00000284.png",
                 "name": "忙碌的红莲",
                 "description": "只为红莲制作的浴衣.\\用最高级面料做的.",
                 "live2d": "c490_10"
             },
             {
                 "code": "c490_88",
-                "avatar": "c4\/00000284.png",
+                "avatar": "c4\/00000285.png",
                 "name": "保持理性的红莲",
                 "description": "相信我.我会纠正一切的.",
                 "live2d": "c490_88"
@@ -11301,32 +11370,32 @@
     },
     {
         "name": "宋美爱",
-        "avatar": "c4\/00000287.png",
+        "avatar": "c4\/00000288.png",
         "skins": [
             {
                 "code": "c491_00",
-                "avatar": "c4\/00000285.png",
+                "avatar": "c4\/00000286.png",
                 "name": "宋美爱",
                 "description": "奶妈亲手做的发带.\\美爱最喜欢的物品.",
                 "live2d": "c491_00"
             },
             {
                 "code": "c491_01",
-                "avatar": "c4\/00000286.png",
+                "avatar": "c4\/00000287.png",
                 "name": "哀悼的蔷薇",
                 "description": "为悼念死难者而精心制作的韩服.",
                 "live2d": "c491_01"
             },
             {
                 "code": "c491_02",
-                "avatar": "c4\/00000287.png",
+                "avatar": "c4\/00000288.png",
                 "name": "水流云空蔷薇",
                 "description": "蔷薇亲自制作的扇子.\\或许是为了遮掩悲伤的脸庞而制作的…",
                 "live2d": "c491_02"
             },
             {
                 "code": "c491_10",
-                "avatar": "c4\/00000288.png",
+                "avatar": "c4\/00000289.png",
                 "name": "无常人生蔷薇",
                 "description": "为喜爱花的他们亲手制作的蔷薇发夹.",
                 "live2d": "c491_10"
@@ -11335,25 +11404,25 @@
     },
     {
         "name": "何仙姑",
-        "avatar": "c4\/00000291.png",
+        "avatar": "c4\/00000292.png",
         "skins": [
             {
                 "code": "c492_00",
-                "avatar": "c4\/00000289.png",
+                "avatar": "c4\/00000290.png",
                 "name": "何仙姑",
                 "description": "",
                 "live2d": "c492_00"
             },
             {
                 "code": "c492_01",
-                "avatar": "c4\/00000290.png",
+                "avatar": "c4\/00000291.png",
                 "name": "烫发的何仙姑",
                 "description": "与恶魔战斗真诚的何仙姑的样子.",
                 "live2d": "c492_01"
             },
             {
                 "code": "c492_02",
-                "avatar": "c4\/00000291.png",
+                "avatar": "c4\/00000292.png",
                 "name": "灭尽的何仙姑",
                 "description": "更加诚心战斗的何仙姑的模样.",
                 "live2d": "c492_02"
@@ -11362,32 +11431,32 @@
     },
     {
         "name": "银河",
-        "avatar": "c4\/00000294.png",
+        "avatar": "c4\/00000295.png",
         "skins": [
             {
                 "code": "c493_00",
-                "avatar": "c4\/00000292.png",
+                "avatar": "c4\/00000293.png",
                 "name": "银河",
                 "description": "长时间坐着学习也不会感到不舒服的休闲装.",
                 "live2d": "c493_00"
             },
             {
                 "code": "c493_01",
-                "avatar": "c4\/00000293.png",
+                "avatar": "c4\/00000294.png",
                 "name": "荣誉的梅西耶",
                 "description": "能一次性制止叛军的长矛.",
                 "live2d": "c493_01"
             },
             {
                 "code": "c493_02",
-                "avatar": "c4\/00000294.png",
+                "avatar": "c4\/00000295.png",
                 "name": "帝皇梅西耶",
                 "description": "只传承给普泰纳皇族的传说披风.",
                 "live2d": "c493_02"
             },
             {
                 "code": "c493_88",
-                "avatar": "c4\/00000295.png",
+                "avatar": "c4\/00000296.png",
                 "name": "帝皇梅西耶",
                 "description": "以皇族的名义守护人民, 找回国家.",
                 "live2d": "c493_88"
@@ -11396,25 +11465,25 @@
     },
     {
         "name": "奥库珠",
-        "avatar": "c4\/00000298.png",
+        "avatar": "c4\/00000299.png",
         "skins": [
             {
                 "code": "c494_00",
-                "avatar": "c4\/00000296.png",
+                "avatar": "c4\/00000297.png",
                 "name": "奥库珠",
                 "description": "一位温和而有魅力的教授的授课服.",
                 "live2d": "c494_00"
             },
             {
                 "code": "c494_01",
-                "avatar": "c4\/00000297.png",
+                "avatar": "c4\/00000298.png",
                 "name": "慈爱的洛桑娜",
                 "description": "具有皇后品格的普泰纳传统服装.",
                 "live2d": "c494_01"
             },
             {
                 "code": "c494_02",
-                "avatar": "c4\/00000298.png",
+                "avatar": "c4\/00000299.png",
                 "name": "包容的洛桑娜",
                 "description": "使用只在普泰纳生产的高级面料制成的洛桑娜服装.",
                 "live2d": "c494_02"
@@ -11423,25 +11492,25 @@
     },
     {
         "name": "菲丹",
-        "avatar": "c4\/00000301.png",
+        "avatar": "c4\/00000302.png",
         "skins": [
             {
                 "code": "c495_00",
-                "avatar": "c4\/00000299.png",
+                "avatar": "c4\/00000300.png",
                 "name": "菲丹",
                 "description": "这是志愿者送的铃铛项链.",
                 "live2d": "c495_00"
             },
             {
                 "code": "c495_01",
-                "avatar": "c4\/00000300.png",
+                "avatar": "c4\/00000301.png",
                 "name": "惹祸精凯特西",
                 "description": "别被猫咪的笑欺骗了.",
                 "live2d": "c495_01"
             },
             {
                 "code": "c495_02",
-                "avatar": "c4\/00000301.png",
+                "avatar": "c4\/00000302.png",
                 "name": "心术不正的凯特西",
                 "description": "恶魔要想在猫脖子上戴铃铛\\也要拼命.",
                 "live2d": "c495_02"
@@ -11450,25 +11519,25 @@
     },
     {
         "name": "小狗",
-        "avatar": "c4\/00000304.png",
+        "avatar": "c4\/00000305.png",
         "skins": [
             {
                 "code": "c496_00",
-                "avatar": "c4\/00000302.png",
+                "avatar": "c4\/00000303.png",
                 "name": "小狗",
                 "description": "这是记者在庇护所见到的志愿者送来的\\小狗的头巾.",
                 "live2d": "c496_00"
             },
             {
                 "code": "c496_01",
-                "avatar": "c4\/00000303.png",
+                "avatar": "c4\/00000304.png",
                 "name": "浪漫的库西",
                 "description": "这是一件与库西的灿烂微笑相似的\\颜色鲜艳的连衣.",
                 "live2d": "c496_01"
             },
             {
                 "code": "c496_02",
-                "avatar": "c4\/00000304.png",
+                "avatar": "c4\/00000305.png",
                 "name": "幸福的库西",
                 "description": "与库西温暖的心意相似的\\颜色柔和的连衣裙.",
                 "live2d": "c496_02"
@@ -11477,25 +11546,25 @@
     },
     {
         "name": "波坦",
-        "avatar": "c4\/00000307.png",
+        "avatar": "c4\/00000308.png",
         "skins": [
             {
                 "code": "c497_01",
-                "avatar": "c4\/00000305.png",
+                "avatar": "c4\/00000306.png",
                 "name": "还原的波坦",
                 "description": "这是体现古朴波坦眼光的古典大衣.",
                 "live2d": "c497_01"
             },
             {
                 "code": "c497_02",
-                "avatar": "c4\/00000306.png",
+                "avatar": "c4\/00000307.png",
                 "name": "完整的波坦",
                 "description": "用炼金术以及神秘布料特殊制作的\\波坦的古典大衣.",
                 "live2d": "c497_02"
             },
             {
                 "code": "c497_10",
-                "avatar": "c4\/00000307.png",
+                "avatar": "c4\/00000308.png",
                 "name": "梦想家波坦",
                 "description": "门徒波坦的工作服.",
                 "live2d": "c497_10"
@@ -11504,32 +11573,32 @@
     },
     {
         "name": "索尔",
-        "avatar": "c4\/00000310.png",
+        "avatar": "c4\/00000311.png",
         "skins": [
             {
                 "code": "c498_01",
-                "avatar": "c4\/00000308.png",
+                "avatar": "c4\/00000309.png",
                 "name": "索尔",
                 "description": "让对方痛快屈服的超攻击型前锋.",
                 "live2d": "c498_01"
             },
             {
                 "code": "c498_02",
-                "avatar": "c4\/00000309.png",
+                "avatar": "c4\/00000310.png",
                 "name": "赏金猎人索尔",
                 "description": "正在将赏金猎人当做主业的转职科学家.\\手中拿的东西都如搭档般顺手的武器愤怒 Mk.Ⅱ.",
                 "live2d": "c498_02"
             },
             {
                 "code": "c498_10",
-                "avatar": "c4\/00000310.png",
+                "avatar": "c4\/00000311.png",
                 "name": "玉炎的军神索尔",
                 "description": "通过龙设施让隐藏之力觉醒的索尔的样子.\\用碾压之力让对方屈服的样子, 被称为身上环绕地狱火的军神丝毫不逊色.",
                 "live2d": "c498_10"
             },
             {
                 "code": "c498_87",
-                "avatar": "c4\/00000311.png",
+                "avatar": "c4\/00000312.png",
                 "name": "玉炎的军神索尔",
                 "description": "通过龙设施让隐藏之力觉醒的索尔的样子.\\用碾压之力让对方屈服的样子, 被称为身上环绕地狱火的军神丝毫不逊色.",
                 "live2d": "c498_87"
@@ -11538,18 +11607,18 @@
     },
     {
         "name": "拉姆·里瑟尔",
-        "avatar": "c4\/00000313.png",
+        "avatar": "c4\/00000314.png",
         "skins": [
             {
                 "code": "c499_01",
-                "avatar": "c4\/00000312.png",
+                "avatar": "c4\/00000313.png",
                 "name": "拉姆·里瑟尔",
                 "description": "伊柳利亚政府特殊部队的指挥官.",
                 "live2d": "c499_01"
             },
             {
                 "code": "c499_02",
-                "avatar": "c4\/00000313.png",
+                "avatar": "c4\/00000314.png",
                 "name": "准将拉姆·里瑟尔",
                 "description": "拿着两把大剑进入战斗姿势的拉姆·里瑟尔.\\前进时砍倒一切, 碾压一切.",
                 "live2d": "c499_02"
@@ -12660,39 +12729,46 @@
         ]
     },
     {
-        "name": "阿罗汉",
-        "avatar": "c5\/00000126.png",
+        "name": "아라한",
+        "avatar": "c5\/00000127.png",
         "skins": [
             {
-                "code": "c541_01",
+                "code": "c541_00",
                 "avatar": "c5\/00000125.png",
-                "name": "卡里阿罗汉",
+                "name": "아라한",
                 "description": "",
+                "live2d": "c541_00"
+            },
+            {
+                "code": "c541_01",
+                "avatar": "c5\/00000126.png",
+                "name": "卡里阿罗汉",
+                "description": "미트라를 구하기 위해 친타마니와 손을 잡은 아라한.",
                 "live2d": "c541_01"
             },
             {
                 "code": "c541_02",
-                "avatar": "c5\/00000126.png",
+                "avatar": "c5\/00000127.png",
                 "name": "马赫卡里阿罗汉",
-                "description": "",
+                "description": "앞에 잘 나서지 않는 그녀가 싸울 때의 모습.",
                 "live2d": "c541_02"
             }
         ]
     },
     {
         "name": "麦盖拉",
-        "avatar": "c5\/00000128.png",
+        "avatar": "c5\/00000129.png",
         "skins": [
             {
                 "code": "c543_01",
-                "avatar": "c5\/00000127.png",
+                "avatar": "c5\/00000128.png",
                 "name": "处决者麦盖拉",
                 "description": "做好了处决罪人的准备的麦盖拉的钉头槌.",
                 "live2d": "c543_01"
             },
             {
                 "code": "c543_02",
-                "avatar": "c5\/00000128.png",
+                "avatar": "c5\/00000129.png",
                 "name": "救援者麦盖拉",
                 "description": "为了拯救罪人而释放隐藏之力的麦盖拉的钉头槌.",
                 "live2d": "c543_02"
@@ -12701,18 +12777,18 @@
     },
     {
         "name": "比卢法",
-        "avatar": "c5\/00000130.png",
+        "avatar": "c5\/00000131.png",
         "skins": [
             {
                 "code": "c544_01",
-                "avatar": "c5\/00000129.png",
+                "avatar": "c5\/00000130.png",
                 "name": "西方的比卢法",
                 "description": "使徒比卢法的美丽模样.",
                 "live2d": "c544_01"
             },
             {
                 "code": "c544_02",
-                "avatar": "c5\/00000130.png",
+                "avatar": "c5\/00000131.png",
                 "name": "太白星比卢法",
                 "description": "重生为强大驱魔师的比卢法的本来面目.",
                 "live2d": "c544_02"
@@ -12721,18 +12797,18 @@
     },
     {
         "name": "阿里尔",
-        "avatar": "c5\/00000132.png",
+        "avatar": "c5\/00000133.png",
         "skins": [
             {
                 "code": "c545_01",
-                "avatar": "c5\/00000131.png",
+                "avatar": "c5\/00000132.png",
                 "name": "注视者阿里尔",
                 "description": "代替天界监视人界的\\注视者阿里尔的样子.",
                 "live2d": "c545_01"
             },
             {
                 "code": "c545_02",
-                "avatar": "c5\/00000132.png",
+                "avatar": "c5\/00000133.png",
                 "name": "觉醒阿里尔",
                 "description": "听从天界命令执行任务的\\使者阿里尔的样子.",
                 "live2d": "c545_02"
@@ -12741,18 +12817,18 @@
     },
     {
         "name": "德米泰勒",
-        "avatar": "c5\/00000134.png",
+        "avatar": "c5\/00000135.png",
         "skins": [
             {
                 "code": "c547_01",
-                "avatar": "c5\/00000133.png",
+                "avatar": "c5\/00000134.png",
                 "name": "等待的德米泰勒",
                 "description": "期待和主人再会的德米泰勒的重新签约服饰.",
                 "live2d": "c547_01"
             },
             {
                 "code": "c547_02",
-                "avatar": "c5\/00000134.png",
+                "avatar": "c5\/00000135.png",
                 "name": "高兴的德米泰勒",
                 "description": "因自己的心意被接受而开心的德米泰勒的服饰.",
                 "live2d": "c547_02"
@@ -12761,18 +12837,18 @@
     },
     {
         "name": "尤达",
-        "avatar": "c5\/00000136.png",
+        "avatar": "c5\/00000137.png",
         "skins": [
             {
                 "code": "c548_01",
-                "avatar": "c5\/00000135.png",
+                "avatar": "c5\/00000136.png",
                 "name": "暗鬼尤达",
                 "description": "从死亡之门归来的复仇鬼尤达的形象.",
                 "live2d": "c548_01"
             },
             {
                 "code": "c548_02",
-                "avatar": "c5\/00000136.png",
+                "avatar": "c5\/00000137.png",
                 "name": "暗帝尤达",
                 "description": "领导新组织的首领尤达的形象.",
                 "live2d": "c548_02"
@@ -12781,18 +12857,18 @@
     },
     {
         "name": "达努",
-        "avatar": "c5\/00000138.png",
+        "avatar": "c5\/00000139.png",
         "skins": [
             {
                 "code": "c549_01",
-                "avatar": "c5\/00000137.png",
+                "avatar": "c5\/00000138.png",
                 "name": "正义达努",
                 "description": "通过灵魂共鸣术被附身的达努的样子.",
                 "live2d": "c549_01"
             },
             {
                 "code": "c549_02",
-                "avatar": "c5\/00000138.png",
+                "avatar": "c5\/00000139.png",
                 "name": "K-9达努",
                 "description": "拥有歼灭罪犯的武器的达努的样子.",
                 "live2d": "c549_02"
@@ -12801,25 +12877,25 @@
     },
     {
         "name": "凯尔",
-        "avatar": "c5\/00000141.png",
+        "avatar": "c5\/00000142.png",
         "skins": [
             {
                 "code": "c550_00",
-                "avatar": "c5\/00000139.png",
+                "avatar": "c5\/00000140.png",
                 "name": "凯尔",
                 "description": "站在法庭之前, 今天凯尔的服装依旧完美.",
                 "live2d": "c550_00"
             },
             {
                 "code": "c550_01",
-                "avatar": "c5\/00000140.png",
+                "avatar": "c5\/00000141.png",
                 "name": "祝福斯克鲁奇",
                 "description": "寒冷的冬日, 响起的温暖斯克鲁奇的钟声.",
                 "live2d": "c550_01"
             },
             {
                 "code": "c550_02",
-                "avatar": "c5\/00000141.png",
+                "avatar": "c5\/00000142.png",
                 "name": "嘉年华斯克鲁奇",
                 "description": "希望每天都是圣诞节的斯克鲁奇.\\果然是她给的礼物…!!",
                 "live2d": "c550_02"
@@ -12828,18 +12904,18 @@
     },
     {
         "name": "奥福伊斯",
-        "avatar": "c5\/00000143.png",
+        "avatar": "c5\/00000144.png",
         "skins": [
             {
                 "code": "c552_01",
-                "avatar": "c5\/00000142.png",
+                "avatar": "c5\/00000143.png",
                 "name": "黑猫奥福伊斯",
                 "description": "通过时装券获得的兔女郎服装.",
                 "live2d": "c552_01"
             },
             {
                 "code": "c552_02",
-                "avatar": "c5\/00000143.png",
+                "avatar": "c5\/00000144.png",
                 "name": "白猫奥福伊斯",
                 "description": "象征幸运的纯白色兔女郎服装.",
                 "live2d": "c552_02"
@@ -12848,46 +12924,46 @@
     },
     {
         "name": "鲁伯斯",
-        "avatar": "c5\/00000146.png",
+        "avatar": "c5\/00000147.png",
         "skins": [
             {
                 "code": "c557_01",
-                "avatar": "c5\/00000144.png",
+                "avatar": "c5\/00000145.png",
                 "name": "鲁伯斯",
                 "description": "专为鲁伯斯订制的魔界进口套装.",
                 "live2d": "c557_01"
             },
             {
                 "code": "c557_02",
-                "avatar": "c5\/00000145.png",
+                "avatar": "c5\/00000146.png",
                 "name": "灭绝鲁伯斯",
                 "description": "适合战斗的定制套装.\\拿剑的他十分优雅.",
                 "live2d": "c557_02"
             },
             {
                 "code": "c557_10",
-                "avatar": "c5\/00000146.png",
+                "avatar": "c5\/00000147.png",
                 "name": "大公鲁伯斯",
                 "description": "施放真正力量的鲁伯斯的服装.\\连看到这衣服能活下来的人都屈指可数.",
                 "live2d": "c557_10"
             },
             {
                 "code": "c557_87",
-                "avatar": "c5\/00000147.png",
+                "avatar": "c5\/00000148.png",
                 "name": "大公鲁伯斯",
                 "description": "施放真正力量的鲁伯斯的服装.\\连看到这衣服能活下来的人都屈指可数.",
                 "live2d": "c557_87"
             },
             {
                 "code": "c557_88",
-                "avatar": "c5\/00000148.png",
+                "avatar": "c5\/00000149.png",
                 "name": "灭绝鲁伯斯",
                 "description": "适合战斗的定制套装.\\拿剑的他十分优雅.",
                 "live2d": "c557_88"
             },
             {
                 "code": "c557_89",
-                "avatar": "c5\/00000149.png",
+                "avatar": "c5\/00000150.png",
                 "name": "鲁伯斯",
                 "description": "专为鲁伯斯订制的魔界进口套装.",
                 "live2d": "c557_89"
@@ -12896,21 +12972,88 @@
     },
     {
         "name": "内德",
-        "avatar": "c5\/00000151.png",
+        "avatar": "c5\/00000152.png",
         "skins": [
             {
                 "code": "c560_01",
-                "avatar": "c5\/00000150.png",
+                "avatar": "c5\/00000151.png",
                 "name": "暴烈内德",
                 "description": "克服伤痛更加成熟的内德的服装.",
                 "live2d": "c560_01"
             },
             {
                 "code": "c560_02",
-                "avatar": "c5\/00000151.png",
+                "avatar": "c5\/00000152.png",
                 "name": "火魔内德",
                 "description": "做好倾尽所有之准备的内德的战斗服装.",
                 "live2d": "c560_02"
+            }
+        ]
+    },
+    {
+        "name": "모건",
+        "avatar": "c5\/00000154.png",
+        "skins": [
+            {
+                "code": "c561_01",
+                "avatar": "c5\/00000153.png",
+                "name": "유일무이모건",
+                "description": "주인님을 위해 특별히 준비한 메이드복.",
+                "live2d": "c561_01"
+            },
+            {
+                "code": "c561_02",
+                "avatar": "c5\/00000154.png",
+                "name": "일편단심모건",
+                "description": "단 한 명의 주인님만을 위한 메이드복.",
+                "live2d": "c561_02"
+            }
+        ]
+    },
+    {
+        "name": "살마키스",
+        "avatar": "c5\/00000157.png",
+        "skins": [
+            {
+                "code": "c562_01",
+                "avatar": "c5\/00000155.png",
+                "name": "마녀살마키스",
+                "description": "어디서도 구할 수 없는 살마키스의 전용 변신복이다.",
+                "live2d": "c562_01"
+            },
+            {
+                "code": "c562_02",
+                "avatar": "c5\/00000156.png",
+                "name": "그대의살마키스",
+                "description": "주문을 외우면 악마는 반드시 지고 말지.",
+                "live2d": "c562_02"
+            },
+            {
+                "code": "c562_88",
+                "avatar": "c5\/00000157.png",
+                "name": "그대의살마키스",
+                "description": "주문을 외우면 악마는 반드시 지고 말지.",
+                "live2d": "c562_88"
+            }
+        ]
+    },
+    {
+        "name": "민트",
+        "avatar": "c5\/00000159.png",
+        "skins": [
+            {
+                "code": "c563_01",
+                "avatar": "c5\/00000158.png",
+                "name": "애플민트",
+                "description": "절체절명의 순간, 당신 앞에 나타난 요정 민트.",
+                "live2d": "c563_01"
+            },
+            {
+                "code": "c563_02",
+                "avatar": "c5\/00000159.png",
+                "name": "초코민트",
+                "description": "사랑, 평화, 달달함을 지키기 위해 나선 요정 민트.",
+                "live2d": "c563_02"
             }
         ]
     }
