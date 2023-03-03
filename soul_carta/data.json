@@ -806,6 +806,13 @@
     },
     {
         "name": "",
+        "avatar": "pc1\/00000052.png",
+        "image": "pc1\/00000052.png",
+        "use_live2d": false,
+        "live2d": ""
+    },
+    {
+        "name": "",
         "avatar": "pc2\/00000000.png",
         "image": "pc2\/00000000.png",
         "use_live2d": false,
